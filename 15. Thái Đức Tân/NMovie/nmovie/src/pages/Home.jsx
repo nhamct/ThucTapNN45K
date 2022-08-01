@@ -1,7 +1,15 @@
 import React from "react";
 
-const Home = () => {
-  return <div>Home</div>;
+import HeroSlide from "../components/hero-slide/HeroSlide";
+
+const Home = (props) => {
+  return (
+    <div>
+      <HeroSlide />
+    </div>
+  );
 };
+
+Home.propTypes = {};
 
 export default Home;
