@@ -23,7 +23,17 @@ button {
 }
 
 .btn-outline {
-  border: 3px solid white;
+  border: 3px solid $white;
+  background-color: transparent;
+  color: $white;
+  box-shadow: unset;
+  transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.btn-outline:hover {
+  box-shadow: unset;
+  color: $main-color;
+  background-color: $white;
 }
 
 .btn.small {
