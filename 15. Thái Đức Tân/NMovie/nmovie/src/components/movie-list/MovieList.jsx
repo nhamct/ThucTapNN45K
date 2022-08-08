@@ -8,8 +8,10 @@ import { SwiperSlide, Swiper } from "swiper/react";
 // import { Link } from "react-router-dom";
 // import Button from "../button/Button";
 
+import MovieCard from "../movie-card/MovieCard";
+
 import tmdbApi, { category } from "../../api/tmdbApi";
-import apiConfig from "../../api/apiConfig";
+// import apiConfig from "../../api/apiConfig";
 
 const MovieList = (props) => {
   const [items, setItems] = useState([]);
@@ -39,7 +41,7 @@ const MovieList = (props) => {
       <Swiper grabCursor={true} spaceBetween={10} slidesPerView={"auto"}>
         {items.map((item, i) => (
           <SwiperSlide key={i}>
-            <img src={apiConfig.w500Image(item.poster_path)} alt="" />
+            <MovieCard item={item} category={props.category}/>
           </SwiperSlide>
         ))}
       </Swiper>
