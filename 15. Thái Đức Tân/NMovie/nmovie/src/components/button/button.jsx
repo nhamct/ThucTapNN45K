@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 
 import "./button.scss";
 
-const button = (props) => {
+const Button = (props) => {
   return (
     <button
       className={`btn ${props.className}`}
@@ -16,17 +16,17 @@ const button = (props) => {
 
 export const OutlineButton = (props) => {
   return (
-    <button
+    <Button
       className={`btn-outline ${props.className}`}
       onClick={props.onClick ? () => props.onClick() : null}
     >
       {props.children}
-    </button>
+    </Button>
   );
 };
 
-button.propTypes = {
+Button.propTypes = {
   onClick: PropTypes.func,
 };
 
-export default button;
+export default Button;

@@ -99,7 +99,7 @@ const HeroSlideItem = (props) => {
               Watch now
             </Button>
 
-            <OutlineButton onClick={() => console.log("trailer")}>
+            <OutlineButton onClick={setModalActive}>
               Watch trailer
             </OutlineButton>
           </div>
@@ -120,8 +120,8 @@ const TrailerModal = (props) => {
   const onClose = () => iframeRef.current.setAttribute("src", "");
 
   return (
-    <Modal>
-      <ModalContent active={false} id={`modal_${item.id}`}>
+    <Modal active={false} id={`modal_${item.id}`}>
+      <ModalContent onClose={onClose}>
         <iframe
           ref={iframeRef}
           width="100%"
