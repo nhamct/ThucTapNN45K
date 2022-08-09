@@ -1,0 +1,1329 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20222.22.0624.2136                               -->
+<workbook original-version='18.1' source-build='2022.2.0 (20222.22.0624.2136)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <CascadingFilters />
+    <CascadingFiltersHamburgerUI />
+    <IntuitiveSorting />
+    <IntuitiveSorting_SP2 />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <_.fcp.SingleValuePerNestSorting.true...SingleValuePerNestSorting />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='datasample_final' inline='true' name='federated.0movgmg0ryrj731a34ejb0y6apj4' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='datasample_final' name='excel-direct.1dr65wr12a9d6o158n2jj167ltug'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='/Users/mac/Documents/GitHub/ThucTapNN45K/18. Nguyễn Thị Thanh Thư/datasample_final.xlsx' interpretationMode='0' password='' server='' validate='no' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.1dr65wr12a9d6o158n2jj167ltug' name='salary_and_demand_2021' table='[salary_and_demand_2021$]' type='table'>
+          <columns gridOrigin='A1:M929:no:A1:M929:0' header='yes' outcome='6'>
+            <column datatype='string' name='Customer Name' ordinal='0' />
+            <column datatype='string' name='Age' ordinal='1' />
+            <column datatype='string' name='Name of Industry' ordinal='2' />
+            <column datatype='string' name='Job title' ordinal='3' />
+            <column datatype='integer' name='Annual salary' ordinal='4' />
+            <column datatype='string' name='Country' ordinal='5' />
+            <column datatype='string' name='Work experience' ordinal='6' />
+            <column datatype='string' name='Gender' ordinal='7' />
+            <column datatype='string' name='State' ordinal='8' />
+            <column datatype='string' name='Category' ordinal='9' />
+            <column datatype='string' name='Sub-Category' ordinal='10' />
+            <column datatype='string' name='Product Name' ordinal='11' />
+            <column datatype='real' name='Sales' ordinal='12' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='excel-direct.1dr65wr12a9d6o158n2jj167ltug' name='salary_and_demand_2021' table='[salary_and_demand_2021$]' type='table'>
+          <columns gridOrigin='A1:M929:no:A1:M929:0' header='yes' outcome='6'>
+            <column datatype='string' name='Customer Name' ordinal='0' />
+            <column datatype='string' name='Age' ordinal='1' />
+            <column datatype='string' name='Name of Industry' ordinal='2' />
+            <column datatype='string' name='Job title' ordinal='3' />
+            <column datatype='integer' name='Annual salary' ordinal='4' />
+            <column datatype='string' name='Country' ordinal='5' />
+            <column datatype='string' name='Work experience' ordinal='6' />
+            <column datatype='string' name='Gender' ordinal='7' />
+            <column datatype='string' name='State' ordinal='8' />
+            <column datatype='string' name='Category' ordinal='9' />
+            <column datatype='string' name='Sub-Category' ordinal='10' />
+            <column datatype='string' name='Product Name' ordinal='11' />
+            <column datatype='real' name='Sales' ordinal='12' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[salary_and_demand_2021]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:M929:no:A1:M929:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>6</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Customer Name</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Customer Name]</local-name>
+            <parent-name>[salary_and_demand_2021]</parent-name>
+            <remote-alias>Customer Name</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[salary!and!demand!2021_17B3DF8C6D51428DAB067300105F35A1]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Age</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Age]</local-name>
+            <parent-name>[salary_and_demand_2021]</parent-name>
+            <remote-alias>Age</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[salary!and!demand!2021_17B3DF8C6D51428DAB067300105F35A1]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Name of Industry</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Name of Industry]</local-name>
+            <parent-name>[salary_and_demand_2021]</parent-name>
+            <remote-alias>Name of Industry</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[salary!and!demand!2021_17B3DF8C6D51428DAB067300105F35A1]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Job title</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Job title]</local-name>
+            <parent-name>[salary_and_demand_2021]</parent-name>
+            <remote-alias>Job title</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[salary!and!demand!2021_17B3DF8C6D51428DAB067300105F35A1]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Annual salary</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Annual salary]</local-name>
+            <parent-name>[salary_and_demand_2021]</parent-name>
+            <remote-alias>Annual salary</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[salary!and!demand!2021_17B3DF8C6D51428DAB067300105F35A1]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Country</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Country]</local-name>
+            <parent-name>[salary_and_demand_2021]</parent-name>
+            <remote-alias>Country</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[salary!and!demand!2021_17B3DF8C6D51428DAB067300105F35A1]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Work experience</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Work experience]</local-name>
+            <parent-name>[salary_and_demand_2021]</parent-name>
+            <remote-alias>Work experience</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[salary!and!demand!2021_17B3DF8C6D51428DAB067300105F35A1]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Gender</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Gender]</local-name>
+            <parent-name>[salary_and_demand_2021]</parent-name>
+            <remote-alias>Gender</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[salary!and!demand!2021_17B3DF8C6D51428DAB067300105F35A1]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>State</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[State]</local-name>
+            <parent-name>[salary_and_demand_2021]</parent-name>
+            <remote-alias>State</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[salary!and!demand!2021_17B3DF8C6D51428DAB067300105F35A1]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Category</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Category]</local-name>
+            <parent-name>[salary_and_demand_2021]</parent-name>
+            <remote-alias>Category</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[salary!and!demand!2021_17B3DF8C6D51428DAB067300105F35A1]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sub-Category</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Sub-Category]</local-name>
+            <parent-name>[salary_and_demand_2021]</parent-name>
+            <remote-alias>Sub-Category</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[salary!and!demand!2021_17B3DF8C6D51428DAB067300105F35A1]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Product Name</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Product Name]</local-name>
+            <parent-name>[salary_and_demand_2021]</parent-name>
+            <remote-alias>Product Name</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[salary!and!demand!2021_17B3DF8C6D51428DAB067300105F35A1]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sales</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Sales]</local-name>
+            <parent-name>[salary_and_demand_2021]</parent-name>
+            <remote-alias>Sales</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[salary!and!demand!2021_17B3DF8C6D51428DAB067300105F35A1]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[Age]' role='dimension' type='nominal' />
+      <column datatype='integer' name='[Annual salary]' role='measure' type='quantitative' />
+      <column datatype='string' name='[Category]' role='dimension' type='nominal' />
+      <column datatype='string' name='[Country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <column datatype='string' name='[Gender]' role='dimension' type='nominal' />
+      <column datatype='string' name='[Job title]' role='dimension' type='nominal' />
+      <column datatype='real' name='[Sales]' role='measure' type='quantitative' />
+      <column datatype='string' name='[State]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
+      <column datatype='string' name='[Work experience]' role='dimension' type='nominal' />
+      <_.fcp.ObjectModelTableType.true...column caption='salary_and_demand_2021' datatype='table' name='[__tableau_internal_object_id__].[salary!and!demand!2021_17B3DF8C6D51428DAB067300105F35A1]' role='measure' type='quantitative' />
+      <column-instance column='[Age]' derivation='Attribute' name='[attr:Age:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Annual salary]' derivation='Attribute' name='[attr:Annual salary:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Gender]' derivation='Attribute' name='[attr:Gender:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Annual salary]' derivation='Avg' name='[avg:Annual salary:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Sales]' derivation='Avg' name='[avg:Sales:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Sales]' derivation='Count' name='[cnt:Sales:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Sales]' derivation='Avg' name='[cum:avg:Sales:qk]' pivot='key' type='quantitative'>
+        <table-calc aggregation='Sum' ordering-type='Rows' type='CumTotal' />
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Sum' name='[cum:sum:Sales:qk]' pivot='key' type='quantitative'>
+        <table-calc aggregation='Sum' ordering-type='Rows' type='CumTotal' />
+      </column-instance>
+      <column-instance column='[Annual salary]' derivation='Attribute' name='[diff:attr:Annual salary:qk]' pivot='key' type='quantitative'>
+        <table-calc diff-options='Relative' ordering-type='Rows' type='Difference'>
+          <address>
+            <value>-1</value>
+          </address>
+        </table-calc>
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Avg' name='[diff:avg:Sales:qk]' pivot='key' type='quantitative'>
+        <table-calc diff-options='Relative' ordering-type='Rows' type='Difference'>
+          <address>
+            <value>-1</value>
+          </address>
+        </table-calc>
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Sum' name='[diff:sum:Sales:qk:2]' pivot='key' type='quantitative'>
+        <table-calc diff-options='Relative' ordering-type='CellInPane' type='Difference'>
+          <address>
+            <value>-1</value>
+          </address>
+        </table-calc>
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Sum' name='[diff:sum:Sales:qk:4]' pivot='key' type='quantitative'>
+        <table-calc diff-options='Relative' ordering-type='Columns' type='Difference'>
+          <address>
+            <value>-1</value>
+          </address>
+        </table-calc>
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Sum' name='[diff:sum:Sales:qk:6]' pivot='key' type='quantitative'>
+        <table-calc diff-options='Relative' ordering-type='Table' type='Difference'>
+          <address>
+            <value>-1</value>
+          </address>
+        </table-calc>
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Sum' name='[diff:sum:Sales:qk:8]' pivot='key' type='quantitative'>
+        <table-calc diff-options='Relative' ordering-type='TableCol' type='Difference'>
+          <address>
+            <value>-1</value>
+          </address>
+        </table-calc>
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Sum' name='[diff:sum:Sales:qk]' pivot='key' type='quantitative'>
+        <table-calc diff-options='Relative' ordering-type='Rows' type='Difference'>
+          <address>
+            <value>-1</value>
+          </address>
+        </table-calc>
+      </column-instance>
+      <column-instance column='[Annual salary]' derivation='Median' name='[med:Annual salary:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Sales]' derivation='Median' name='[med:Sales:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Age]' derivation='None' name='[none:Age:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Annual salary]' derivation='None' name='[none:Annual salary:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Category]' derivation='None' name='[none:Category:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Country]' derivation='None' name='[none:Country:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Gender]' derivation='None' name='[none:Gender:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Job title]' derivation='None' name='[none:Job title:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Work experience]' derivation='None' name='[none:Work experience:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Sales]' derivation='Avg' name='[pcdf:avg:Sales:qk]' pivot='key' type='quantitative'>
+        <table-calc diff-options='Relative' ordering-type='Rows' type='PctDiff'>
+          <address>
+            <value>-1</value>
+          </address>
+        </table-calc>
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Avg' name='[pcrk:avg:Sales:qk:2]' pivot='key' type='quantitative'>
+        <table-calc ordering-type='Rows' rank-options='Competition,Descending' type='PctRank' />
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Avg' name='[pcrk:avg:Sales:qk]' pivot='key' type='quantitative'>
+        <table-calc ordering-type='Rows' rank-options='Competition,Ascending' type='PctRank' />
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Sum' name='[pcrk:sum:Sales:qk]' pivot='key' type='quantitative'>
+        <table-calc ordering-type='Rows' rank-options='Competition,Ascending' type='PctRank' />
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Avg' name='[pcto:avg:Sales:qk:2]' pivot='key' type='quantitative'>
+        <table-calc ordering-type='Columns' type='PctTotal' />
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Avg' name='[pcto:avg:Sales:qk:3]' pivot='key' type='quantitative'>
+        <table-calc ordering-field='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Gender:nk]' ordering-type='Field' type='PctTotal' />
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Avg' name='[pcto:avg:Sales:qk:4]' pivot='key' type='quantitative'>
+        <table-calc ordering-type='Table' type='PctTotal' />
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Avg' name='[pcto:avg:Sales:qk:5]' pivot='key' type='quantitative'>
+        <table-calc ordering-type='CellInPane' type='PctTotal' />
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Avg' name='[pcto:avg:Sales:qk:6]' pivot='key' type='quantitative'>
+        <table-calc ordering-type='Field' type='PctTotal'>
+          <order field='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Gender:nk]' />
+          <order field='[federated.0movgmg0ryrj731a34ejb0y6apj4].[Age]' />
+        </table-calc>
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Avg' name='[pcto:avg:Sales:qk:7]' pivot='key' type='quantitative'>
+        <table-calc ordering-field='' ordering-type='Field' type='PctTotal' />
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Avg' name='[pcto:avg:Sales:qk]' pivot='key' type='quantitative'>
+        <table-calc ordering-type='Rows' type='PctTotal' />
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Sum' name='[pcto:sum:Sales:qk:2]' pivot='key' type='quantitative'>
+        <table-calc ordering-type='Columns' type='PctTotal' />
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Sum' name='[pcto:sum:Sales:qk:4]' pivot='key' type='quantitative'>
+        <table-calc ordering-type='Table' type='PctTotal' />
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Sum' name='[pcto:sum:Sales:qk:5]' pivot='key' type='quantitative'>
+        <table-calc ordering-type='CellInPane' type='PctTotal' />
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Sum' name='[pcto:sum:Sales:qk]' pivot='key' type='quantitative'>
+        <table-calc ordering-type='Rows' type='PctTotal' />
+      </column-instance>
+      <column-instance column='[Sales]' derivation='Avg' name='[pcva:avg:Sales:qk]' pivot='key' type='quantitative'>
+        <table-calc diff-options='Relative' ordering-type='Rows' type='PctValue'>
+          <address>
+            <value>-1</value>
+          </address>
+        </table-calc>
+      </column-instance>
+      <column-instance aggregation-param='10' column='[Sales]' derivation='Percentile' name='[prc10:Sales:qk]' pivot='key' type='quantitative' />
+      <column-instance aggregation-param='5' column='[Sales]' derivation='Percentile' name='[prc5:Sales:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Annual salary]' derivation='Sum' name='[sum:Annual salary:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Sales]' derivation='Sum' name='[sum:Sales:qk]' pivot='key' type='quantitative' />
+      <drill-paths>
+        <drill-path name='Job'>
+          <field>[Job title]</field>
+          <field>[Work experience]</field>
+          <field>[Name of Industry]</field>
+        </drill-path>
+        <drill-path name='Location'>
+          <field>[Country]</field>
+          <field>[State]</field>
+        </drill-path>
+        <drill-path name='Personal'>
+          <field>[Customer Name]</field>
+          <field>[Age]</field>
+          <field>[Gender]</field>
+        </drill-path>
+        <drill-path name='Product'>
+          <field>[Category]</field>
+          <field>[Sub-Category]</field>
+          <field>[Product Name]</field>
+        </drill-path>
+      </drill-paths>
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Gender:nk]' type='palette'>
+            <map to='#bae0fc'>
+              <bucket>&quot;Man&quot;</bucket>
+            </map>
+            <map to='#f4b6b5'>
+              <bucket>&quot;Woman&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[attr:Annual salary:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[avg:Annual salary:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[diff:attr:Annual salary:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[med:Annual salary:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Annual salary:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[sum:Annual salary:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[attr:Age:nk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[avg:Sales:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[cnt:Sales:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[cum:avg:Sales:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[cum:sum:Sales:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[diff:avg:Sales:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[diff:sum:Sales:qk:2]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[diff:sum:Sales:qk:4]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[diff:sum:Sales:qk:6]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[diff:sum:Sales:qk:8]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[diff:sum:Sales:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[med:Sales:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Age:nk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Country:nk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Job title:nk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[pcdf:avg:Sales:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[pcrk:avg:Sales:qk:2]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[pcrk:avg:Sales:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[pcrk:sum:Sales:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[pcto:avg:Sales:qk:2]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[pcto:avg:Sales:qk:3]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[pcto:avg:Sales:qk:4]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[pcto:avg:Sales:qk:5]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[pcto:avg:Sales:qk:6]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[pcto:avg:Sales:qk:7]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[pcto:avg:Sales:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[pcto:sum:Sales:qk:2]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[pcto:sum:Sales:qk:4]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[pcto:sum:Sales:qk:5]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[pcto:sum:Sales:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[pcva:avg:Sales:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[prc10:Sales:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[prc5:Sales:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.0movgmg0ryrj731a34ejb0y6apj4].[sum:Sales:qk]&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[attr:Gender:nk]' type='palette'>
+            <map to='#bae0fc'>
+              <bucket>&quot;Man&quot;</bucket>
+            </map>
+            <map to='#f4b6b5'>
+              <bucket>&quot;Woman&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:Category:nk]' palette='sf_bluegrass' type='palette'>
+            <map to='#51d2bb'>
+              <bucket>&quot;Technology&quot;</bucket>
+            </map>
+            <map to='#94e7a8'>
+              <bucket>&quot;Office Supplies&quot;</bucket>
+            </map>
+            <map to='#c7f296'>
+              <bucket>&quot;Furniture&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:Age:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;18-24&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;55-64&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;45-54&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;35-44&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;65 or over&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;25-34&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='shape' field='[none:Age:nk]' type='shape'>
+            <map to='asterisk'>
+              <bucket>&quot;55-64&quot;</bucket>
+            </map>
+            <map to='circle'>
+              <bucket>&quot;25-34&quot;</bucket>
+            </map>
+            <map to='diamond'>
+              <bucket>&quot;65 or over&quot;</bucket>
+            </map>
+            <map to='plus'>
+              <bucket>&quot;18-24&quot;</bucket>
+            </map>
+            <map to='square'>
+              <bucket>&quot;35-44&quot;</bucket>
+            </map>
+            <map to='times'>
+              <bucket>&quot;45-54&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[attr:Age:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;18-24&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;55-64&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;45-54&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;35-44&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;65 or over&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;25-34&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='shape' field='[attr:Age:nk]' type='shape'>
+            <map to='asterisk'>
+              <bucket>&quot;55-64&quot;</bucket>
+            </map>
+            <map to='circle'>
+              <bucket>&quot;25-34&quot;</bucket>
+            </map>
+            <map to='diamond'>
+              <bucket>&quot;65 or over&quot;</bucket>
+            </map>
+            <map to='plus'>
+              <bucket>&quot;18-24&quot;</bucket>
+            </map>
+            <map to='square'>
+              <bucket>&quot;35-44&quot;</bucket>
+            </map>
+            <map to='times'>
+              <bucket>&quot;45-54&quot;</bucket>
+            </map>
+            <map to='triangle'>
+              <bucket>%many-values%</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:Work experience:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;1 year or less&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;11 - 20 years&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;8 - 10 years&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;31 - 40 years&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;5-7 years&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;21 - 30 years&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;2 - 4 years&quot;</bucket>
+            </map>
+            <map to='#ff9da7'>
+              <bucket>&quot;41 years or more&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='salary_and_demand_2021' id='salary!and!demand!2021_17B3DF8C6D51428DAB067300105F35A1'>
+            <properties context=''>
+              <relation connection='excel-direct.1dr65wr12a9d6o158n2jj167ltug' name='salary_and_demand_2021' table='[salary_and_demand_2021$]' type='table'>
+                <columns gridOrigin='A1:M929:no:A1:M929:0' header='yes' outcome='6'>
+                  <column datatype='string' name='Customer Name' ordinal='0' />
+                  <column datatype='string' name='Age' ordinal='1' />
+                  <column datatype='string' name='Name of Industry' ordinal='2' />
+                  <column datatype='string' name='Job title' ordinal='3' />
+                  <column datatype='integer' name='Annual salary' ordinal='4' />
+                  <column datatype='string' name='Country' ordinal='5' />
+                  <column datatype='string' name='Work experience' ordinal='6' />
+                  <column datatype='string' name='Gender' ordinal='7' />
+                  <column datatype='string' name='State' ordinal='8' />
+                  <column datatype='string' name='Category' ordinal='9' />
+                  <column datatype='string' name='Sub-Category' ordinal='10' />
+                  <column datatype='string' name='Product Name' ordinal='11' />
+                  <column datatype='real' name='Sales' ordinal='12' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Age of  Jobtile'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='datasample_final' name='federated.0movgmg0ryrj731a34ejb0y6apj4' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0movgmg0ryrj731a34ejb0y6apj4'>
+            <column datatype='string' name='[Age]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Annual salary]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Customer Name]' role='dimension' type='nominal' />
+            <column-instance column='[Age]' derivation='None' name='[none:Age:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Customer Name]' derivation='None' name='[none:Customer Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Annual salary]' derivation='Sum' name='[sum:Annual salary:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Age:nk]'>
+            <groupfilter function='except' user:ui-domain='cascading' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:Age:nk]' />
+              <groupfilter function='member' level='[none:Age:nk]' member='%null%' />
+            </groupfilter>
+          </filter>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Age:nk]' direction='ASC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0movgmg0ryrj731a34ejb0y6apj4].[sum:Annual salary:qk]' shelf='rows' />
+          </shelf-sorts>
+          <_.fcp.SingleValuePerNestSorting.true...single-value-per-nest-shelf-sorts>
+            <single-value-per-nest-shelf-sort dimension-to-sort='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Customer Name:nk]' direction='DESC' measure-to-sort-by='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Age:nk]' shelf='rows' />
+          </_.fcp.SingleValuePerNestSorting.true...single-value-per-nest-shelf-sorts>
+          <slices>
+            <column>[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Age:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <encodings>
+              <color column='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Age:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Customer Name:nk] / [federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Age:nk])</rows>
+        <cols>[federated.0movgmg0ryrj731a34ejb0y6apj4].[sum:Annual salary:qk]</cols>
+      </table>
+      <simple-id uuid='{C21C2391-6F48-4F99-8F73-DB2FC762B3B0}' />
+    </worksheet>
+    <worksheet name='Count Age'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='datasample_final' name='federated.0movgmg0ryrj731a34ejb0y6apj4' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0movgmg0ryrj731a34ejb0y6apj4'>
+            <column datatype='string' name='[Age]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Annual salary]' role='measure' type='quantitative' />
+            <column-instance column='[Age]' derivation='Count' name='[cnt:Age:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[Age]' derivation='None' name='[none:Age:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Annual salary]' derivation='Sum' name='[sum:Annual salary:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Age:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.0movgmg0ryrj731a34ejb0y6apj4].[sum:Annual salary:qk]</rows>
+        <cols>[federated.0movgmg0ryrj731a34ejb0y6apj4].[cnt:Age:ok]</cols>
+      </table>
+      <simple-id uuid='{CDBF971A-0FBE-4C1D-8479-10A8FCF42323}' />
+    </worksheet>
+    <worksheet name='Gender: Salary and Sales'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='datasample_final' name='federated.0movgmg0ryrj731a34ejb0y6apj4' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0movgmg0ryrj731a34ejb0y6apj4'>
+            <column datatype='integer' name='[Annual salary]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Gender]' role='dimension' type='nominal' />
+            <column datatype='real' name='[Sales]' role='measure' type='quantitative' />
+            <column-instance column='[Gender]' derivation='Attribute' name='[attr:Gender:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Annual salary]' derivation='Avg' name='[avg:Annual salary:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Sales]' derivation='Median' name='[med:Sales:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Gender]' derivation='None' name='[none:Gender:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Gender]' derivation='Count' name='[pcto:cnt:Gender:qk:2]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='CellInPane' type='PctTotal' />
+            </column-instance>
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Gender:nk]' />
+            </encodings>
+          </pane>
+          <pane id='1' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.0movgmg0ryrj731a34ejb0y6apj4].[med:Sales:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Gender:nk]' />
+              <text column='[federated.0movgmg0ryrj731a34ejb0y6apj4].[pcto:cnt:Gender:qk:2]' />
+              <text column='[federated.0movgmg0ryrj731a34ejb0y6apj4].[med:Sales:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.0movgmg0ryrj731a34ejb0y6apj4].[avg:Annual salary:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <color column='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Gender:nk]' />
+              <text column='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Gender:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.0movgmg0ryrj731a34ejb0y6apj4].[avg:Annual salary:qk] + [federated.0movgmg0ryrj731a34ejb0y6apj4].[med:Sales:qk])</rows>
+        <cols>[federated.0movgmg0ryrj731a34ejb0y6apj4].[attr:Gender:nk]</cols>
+      </table>
+      <simple-id uuid='{980630CA-FFB0-4E78-9FE0-1F87671E3639}' />
+    </worksheet>
+    <worksheet name='Sale &amp;Category'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='datasample_final' name='federated.0movgmg0ryrj731a34ejb0y6apj4' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0movgmg0ryrj731a34ejb0y6apj4'>
+            <column datatype='string' name='[Category]' role='dimension' type='nominal' />
+            <column datatype='real' name='[Sales]' role='measure' type='quantitative' />
+            <column-instance column='[Category]' derivation='None' name='[none:Category:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Sales]' derivation='Sum' name='[sum:Sales:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Category:nk]' />
+              <text column='[federated.0movgmg0ryrj731a34ejb0y6apj4].[sum:Sales:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0movgmg0ryrj731a34ejb0y6apj4].[sum:Sales:qk]</rows>
+        <cols>[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Category:nk]</cols>
+      </table>
+      <simple-id uuid='{BFD27647-BD59-4CD1-9DFC-F5F136B828C7}' />
+    </worksheet>
+    <worksheet name='Sheet 8'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='datasample_final' name='federated.0movgmg0ryrj731a34ejb0y6apj4' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0movgmg0ryrj731a34ejb0y6apj4'>
+            <column datatype='integer' name='[Annual salary]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Job title]' role='dimension' type='nominal' />
+            <column-instance column='[Job title]' derivation='None' name='[none:Job title:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Annual salary]' derivation='Sum' name='[sum:Annual salary:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Job title:nk]'>
+            <groupfilter function='level-members' level='[none:Job title:nk]' />
+          </filter>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Job title:nk]' direction='ASC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0movgmg0ryrj731a34ejb0y6apj4].[sum:Annual salary:qk]' shelf='rows' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Job title:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Job title:nk]</rows>
+        <cols>[federated.0movgmg0ryrj731a34ejb0y6apj4].[sum:Annual salary:qk]</cols>
+      </table>
+      <simple-id uuid='{0258E920-CCAB-4E92-8DB4-6924EAD790A4}' />
+    </worksheet>
+    <worksheet name='Sheet 9'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='datasample_final' name='federated.0movgmg0ryrj731a34ejb0y6apj4' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0movgmg0ryrj731a34ejb0y6apj4'>
+            <column datatype='integer' name='[Annual salary]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Sales]' role='measure' type='quantitative' />
+            <column-instance column='[Annual salary]' derivation='Sum' name='[sum:Annual salary:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Sales]' derivation='Sum' name='[sum:Sales:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.0movgmg0ryrj731a34ejb0y6apj4].[sum:Sales:qk]</rows>
+        <cols>[federated.0movgmg0ryrj731a34ejb0y6apj4].[sum:Annual salary:qk]</cols>
+      </table>
+      <simple-id uuid='{FAABAD4E-2D7B-43F3-9935-EC978D14E0E6}' />
+    </worksheet>
+    <worksheet name='Sum Sale with Age Group'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='datasample_final' name='federated.0movgmg0ryrj731a34ejb0y6apj4' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0movgmg0ryrj731a34ejb0y6apj4'>
+            <column datatype='string' name='[Age]' role='dimension' type='nominal' />
+            <column datatype='real' name='[Sales]' role='measure' type='quantitative' />
+            <column-instance column='[Sales]' derivation='Avg' name='[avg:Sales:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Age]' derivation='None' name='[none:Age:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Age:nk]'>
+            <groupfilter function='union' user:ui-domain='cascading' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:Age:nk]' member='&quot;18-24&quot;' />
+              <groupfilter function='member' level='[none:Age:nk]' member='&quot;25-34&quot;' />
+              <groupfilter function='member' level='[none:Age:nk]' member='&quot;35-44&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Age:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Age:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Age:nk]</rows>
+        <cols>[federated.0movgmg0ryrj731a34ejb0y6apj4].[avg:Sales:qk]</cols>
+      </table>
+      <simple-id uuid='{3D40C0D8-928A-4D23-BE24-9CFC3347E302}' />
+    </worksheet>
+    <worksheet name='Work Experience and Anual Salary'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='datasample_final' name='federated.0movgmg0ryrj731a34ejb0y6apj4' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0movgmg0ryrj731a34ejb0y6apj4'>
+            <column datatype='string' name='[Age]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Annual salary]' role='measure' type='quantitative' />
+            <column-instance column='[Age]' derivation='None' name='[none:Age:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Annual salary]' derivation='Sum' name='[sum:Annual salary:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Age:nk]'>
+            <groupfilter function='level-members' level='[none:Age:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Age:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='mark'>
+            <encoding attr='color' field='[federated.0movgmg0ryrj731a34ejb0y6apj4].[sum:Annual salary:qk]' num-steps='5' palette='gold_purple_diverging_10_0' reverse='true' type='interpolated' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='1' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0movgmg0ryrj731a34ejb0y6apj4].[sum:Annual salary:qk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.0movgmg0ryrj731a34ejb0y6apj4].[sum:Annual salary:qk]</rows>
+        <cols>[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Age:nk]</cols>
+      </table>
+      <simple-id uuid='{8DBE6CE0-6951-47A5-9C1D-BA2BC32BFAE8}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' name='Gender: Salary and Sales'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='2' param='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Gender:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{E49BBDFF-2614-4B15-BBF7-BCC9F0CDCC78}' />
+    </window>
+    <window class='worksheet' name='Count Age'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Age:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{5252CB0A-BA95-41B0-85BA-53B36D945E3A}' />
+    </window>
+    <window class='worksheet' name='Work Experience and Anual Salary'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='100'>
+            <card param='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Age:nk]' type='filter' values='cascading' />
+            <card pane-specification-id='1' param='[federated.0movgmg0ryrj731a34ejb0y6apj4].[sum:Annual salary:qk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{AE0E767E-2487-47D2-9931-29E1B4B51DE0}' />
+    </window>
+    <window class='worksheet' name='Age of  Jobtile'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='2' param='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Age:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{BAA1C654-6316-4409-87EE-4A63CE11EFF1}' />
+    </window>
+    <window class='worksheet' name='Sale &amp;Category'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Category:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{AF375EE3-B470-4ECE-A2F7-9C66B2FCF443}' />
+    </window>
+    <window class='worksheet' name='Sum Sale with Age Group'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Age:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{FA7A6053-D103-481D-8553-8AB55866BC4C}' />
+    </window>
+    <window class='worksheet' name='Sheet 8'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.0movgmg0ryrj731a34ejb0y6apj4].[none:Job title:nk]' type='filter' values='cascading' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{BA01CF9A-F367-4BF9-A192-EBD4615768DD}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Sheet 9'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{5E18D434-FE4E-4722-9B8F-14B71A1A68D8}' />
+    </window>
+  </windows>
+</workbook>
