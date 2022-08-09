@@ -8,15 +8,15 @@ import logo from "../../assets/tmovie.png";
 
 const headerNav = [
   {
-    display: "Home",
+    display: "Trang chủ",
     path: "/",
   },
   {
-    display: "Movies",
+    display: "Phim lẻ",
     path: "/movie",
   },
   {
-    display: "TV Series",
+    display: "Phim bộ ",
     path: "/tv",
   },
 ];

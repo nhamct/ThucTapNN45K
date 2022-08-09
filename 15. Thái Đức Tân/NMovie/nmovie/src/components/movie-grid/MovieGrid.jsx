@@ -82,7 +82,7 @@ const MovieGrid = (props) => {
       {page < totalPage ? (
         <div className="movie-grid__loadmore">
           <OutlineButton className="small" onClick={loadMore}>
-            Load more
+            Xem thêm
           </OutlineButton>
         </div>
       ) : null}
