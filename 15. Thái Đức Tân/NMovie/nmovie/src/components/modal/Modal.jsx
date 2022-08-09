@@ -10,7 +10,7 @@ const Modal = (props) => {
   }, [props.active]);
 
   return (
-    <div id={props.id} classname={`modal ${active} ? 'active':'' `}>
+    <div id={props.id} className={`modal ${active ? "active" : ""}`}>
       {props.children}
     </div>
   );
@@ -37,6 +37,10 @@ export const ModalContent = (props) => {
       </div>
     </div>
   );
+};
+
+ModalContent.propTypes = {
+  onClose: PropTypes.func,
 };
 
 export default Modal;
