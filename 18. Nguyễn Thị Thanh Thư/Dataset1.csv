@@ -1,0 +1,929 @@
+,CustomerName,Age,AnnualSalary,WorkExperience,Gender
+0,Claire Gute,35-44,76650,11 - 20 years,Woman
+1,Darrin Van Huff,45-54,155000,31 - 40 years,Man
+2,Sean O'Donnell,35-44,65000,5-7 years,Woman
+3,Brosina Hoffman,25-34,32000,2 - 4 years,Woman
+4,Andrew Allen,25-34,68500,11 - 20 years,Woman
+5,Irene Maddox,25-34,48000,5-7 years,Woman
+6,Harold Pawlan,25-34,55000,8 - 10 years,Woman
+7,Pete Kriz,35-44,42000,8 - 10 years,Woman
+8,Alejandro Grove,35-44,73000,11 - 20 years,Woman
+9,Zuschuss Donatelli,35-44,30000,8 - 10 years,Woman
+10,Ken Black,35-44,56500,11 - 20 years,Woman
+11,Sandra Flanagan,25-34,36883,2 - 4 years,Woman
+12,Emily Burns,25-34,45000,2 - 4 years,Woman
+13,Eric Hoffmann,25-34,50000,8 - 10 years,Woman
+14,Tracy Blumstein,25-34,35600,5-7 years,Woman
+15,Matt Abelman,18-24,37440,1 year or less,Woman
+16,Gene Hale,35-44,4000,11 - 20 years,Woman
+17,Steve Nguyen,25-34,34000,2 - 4 years,Man
+18,Linda Cazamias,25-34,40000,5-7 years,Man
+19,Ruben Ausman,25-34,30000,11 - 20 years,Woman
+20,Erin Smith,35-44,29120,11 - 20 years,Woman
+21,Odella Nelson,25-34,42000,8 - 10 years,Man
+22,Patrick O'Donnell,25-34,35360,8 - 10 years,Man
+23,Lena Hernandez,35-44,67558,11 - 20 years,Woman
+24,Darren Powers,25-34,51000,8 - 10 years,Woman
+25,Janet Molinari,35-44,66000,11 - 20 years,Woman
+26,Ted Butterfield,25-34,107000,8 - 10 years,Woman
+27,Kunst Miller,35-44,128000,11 - 20 years,Woman
+28,Paul Stevenson,25-34,98000,11 - 20 years,Woman
+29,Brendan Sweed,35-44,60000,21 - 30 years,Woman
+30,Karen Daniels,25-34,52000,5-7 years,Woman
+31,Henry MacAllister,35-44,122000,11 - 20 years,Man
+32,Joel Eaton,25-34,57000,5-7 years,Woman
+33,Ken Brennan,45-54,154500,21 - 30 years,Woman
+34,Stewart Carmichael,35-44,90000,8 - 10 years,Man
+35,Duane Noonan,25-34,68800,2 - 4 years,Woman
+36,Julie Creighton,35-44,144200,11 - 20 years,Woman
+37,Christopher Schild,18-24,29000,1 year or less,Woman
+38,Paul Gonzalez,35-44,91112,8 - 10 years,Woman
+39,Gary Mitchum,25-34,80000,11 - 20 years,Woman
+40,Jim Sink,25-34,15400,5-7 years,Woman
+41,Karl Braun,55-64,56000,31 - 40 years,Woman
+42,Roger Barcio,25-34,30368,8 - 10 years,Woman
+43,Parhena Norris,55-64,162000,21 - 30 years,Woman
+44,Katherine Ducich,35-44,32000,21 - 30 years,Woman
+45,Elpida Rittenbach,25-34,72800,11 - 20 years,Woman
+46,Rick Bensley,25-34,72000,11 - 20 years,Woman
+47,Gary Zandusky,45-54,127000,21 - 30 years,Man
+48,Lena Cacioppo,35-44,75000,11 - 20 years,Woman
+49,Janet Martin,35-44,82908,11 - 20 years,Woman
+50,Pete Armstrong,45-54,60000,11 - 20 years,Woman
+51,Cynthia Voltz,35-44,125000,8 - 10 years,Man
+52,Clay Ludtke,35-44,52000,5-7 years,Woman
+53,Ryan Crowe,65 or over,66000,41 years or more,Woman
+54,Dave Kipp,35-44,55000,11 - 20 years,Woman
+55,Greg Guthrie,35-44,79000,11 - 20 years,Woman
+56,Steven Cartwright,35-44,110000,11 - 20 years,Woman
+57,Alan Dominguez,35-44,94500,11 - 20 years,Woman
+58,Philip Fox,35-44,96000,11 - 20 years,Woman
+59,Troy Staebel,45-54,53500,21 - 30 years,Man
+60,Lindsay Shagiari,35-44,58000,11 - 20 years,Woman
+61,Dorothy Wardle,25-34,54000,8 - 10 years,Woman
+62,Lena Creighton,45-54,75000,21 - 30 years,Woman
+63,Jonathan Doherty,45-54,62860,21 - 30 years,Woman
+64,Sally Hughsby,45-54,101000,21 - 30 years,Woman
+65,Sandra Glassco,45-54,150000,11 - 20 years,Man
+66,Helen Andreada,25-34,77400,5-7 years,Woman
+67,Maureen Gastineau,25-34,65000,8 - 10 years,Woman
+68,Justin Ellison,25-34,67000,8 - 10 years,Man
+69,Tamara Willingham,25-34,62271,5-7 years,Woman
+70,Stephanie Phelps,35-44,52500,5-7 years,Woman
+71,Neil Knudson,45-54,59000,21 - 30 years,Man
+72,Dave Brooks,25-34,39000,8 - 10 years,Woman
+73,Nora Paige,35-44,61000,11 - 20 years,Woman
+74,Ted Trevino,25-34,67000,2 - 4 years,Woman
+75,Eric Murdock,25-34,68000,8 - 10 years,Man
+76,Ruben Dartt,25-34,49000,5-7 years,Woman
+77,Max Jones,25-34,20000,1 year or less,Woman
+78,Becky Martin,35-44,104000,21 - 30 years,Woman
+79,Chad Sievert,25-34,56000,8 - 10 years,Woman
+80,Jennifer Braxton,45-54,229500,21 - 30 years,Woman
+81,Shirley Jackson,25-34,97000,11 - 20 years,Woman
+82,Jim Kriz,35-44,87500,11 - 20 years,Woman
+83,David Kendrick,35-44,31200,11 - 20 years,Man
+84,Robert Marley,35-44,49000,21 - 30 years,Man
+85,Sally Knutson,45-54,50000,31 - 40 years,Woman
+86,Frank Merwin,35-44,28700,8 - 10 years,Woman
+87,Alice McCarthy,35-44,35000,21 - 30 years,Woman
+88,Mark Packer,45-54,115000,21 - 30 years,Woman
+89,Mary Zewe,35-44,69000,11 - 20 years,Woman
+90,Cassandra Brandow,25-34,62400,2 - 4 years,Man
+91,Valerie Mitchum,35-44,131000,8 - 10 years,Woman
+92,Fred Hopkins,25-34,35360,8 - 10 years,Man
+93,Maria Bertelson,35-44,105000,11 - 20 years,Woman
+94,Bruce Stewart,45-54,72800,21 - 30 years,Woman
+95,Logan Currie,45-54,60000,21 - 30 years,Woman
+96,Heather Kirkland,25-34,90000,5-7 years,Woman
+97,Laurel Elliston,35-44,53560,21 - 30 years,Woman
+98,Joseph Holt,35-44,108000,11 - 20 years,Man
+99,Michael Stewart,25-34,67000,5-7 years,Woman
+100,Victoria Wilson,35-44,103000,11 - 20 years,Woman
+101,Jonathan Howell,35-44,40000,11 - 20 years,Woman
+102,Joni Blumstein,35-44,52600,11 - 20 years,Woman
+103,David Smith,45-54,220000,21 - 30 years,Woman
+104,Valerie Dominguez,55-64,107250,41 years or more,Woman
+105,Erin Ashbrook,35-44,110000,11 - 20 years,Woman
+106,David Bremer,25-34,34000,2 - 4 years,Man
+107,Ken Lonsdale,25-34,78000,2 - 4 years,Woman
+108,Dianna Wilson,25-34,40000,8 - 10 years,Woman
+109,Logan Haushalter,45-54,45760,21 - 30 years,Woman
+110,Kelly Collister,55-64,114000,21 - 30 years,Woman
+111,Delfina Latchford,25-34,150000,5-7 years,Woman
+112,Dan Reichenbach,35-44,47500,11 - 20 years,Woman
+113,Craig Carreira,35-44,110000,11 - 20 years,Woman
+114,Dorris liebe,35-44,123000,11 - 20 years,Woman
+115,Sean Braxton,45-54,196000,21 - 30 years,Man
+116,Roy Collins,25-34,160000,5-7 years,Woman
+117,Alan Hwang,25-34,100000,8 - 10 years,Woman
+118,Claudia Bergmann,35-44,92000,21 - 30 years,Woman
+119,Christine Abelman,25-34,130000,5-7 years,Woman
+120,Kristen Hastings,35-44,48500,11 - 20 years,Woman
+121,Barry Blumstein,35-44,112000,11 - 20 years,Woman
+122,Andrew Gjertsen,25-34,90000,8 - 10 years,Woman
+123,Jas O'Carroll,25-34,66089,11 - 20 years,Woman
+124,Alan Haines,35-44,145000,2 - 4 years,Woman
+125,Nick Zandusky,25-34,90000,2 - 4 years,Woman
+126,Kelly Lampkin,35-44,156000,11 - 20 years,Woman
+127,Alan Schoenberger,25-34,105000,5-7 years,Woman
+128,Corey Roper,18-24,52000,2 - 4 years,Woman
+129,Shahid Hopkins,35-44,200000,11 - 20 years,Woman
+130,Ben Peterman,25-34,84000,5-7 years,Woman
+131,Thomas Seio,35-44,175000,11 - 20 years,Woman
+132,Andy Gerbode,25-34,74000,11 - 20 years,Woman
+133,Sung Pak,25-34,28000,11 - 20 years,Woman
+134,Nathan Mautz,25-34,57000,8 - 10 years,Woman
+135,Frank Atkinson,35-44,85000,8 - 10 years,Woman
+136,Grace Kelly,25-34,53680,2 - 4 years,Woman
+137,Don Jones,35-44,50000,11 - 20 years,Man
+138,Patrick O'Brill,55-64,25480,21 - 30 years,Woman
+139,John Lucas,55-64,71700,31 - 40 years,Woman
+140,Doug Bickford,35-44,42000,11 - 20 years,Woman
+141,Alyssa Crouse,25-34,100000,11 - 20 years,Woman
+142,Clay Cheatham,45-54,46800,11 - 20 years,Woman
+143,Tamara Dahlen,25-34,33280,11 - 20 years,Woman
+144,Adam Bellavance,25-34,60000,5-7 years,Woman
+145,Jeremy Lonsdale,35-44,40000,11 - 20 years,Man
+146,Victoria Brennan,25-34,47902,11 - 20 years,Woman
+147,Katrina Willman,35-44,102000,11 - 20 years,Woman
+148,Julia Dunbar,25-34,109400,5-7 years,Man
+149,Michael Kennedy,35-44,107000,8 - 10 years,Woman
+150,Guy Thornton,35-44,40700,11 - 20 years,Man
+151,Arthur Gainer,25-34,3200,5-7 years,Man
+152,Muhammed MacIntyre,25-34,47500,5-7 years,Woman
+153,Allen Rosenblatt,35-44,90000,11 - 20 years,Woman
+154,Russell Applegate,35-44,55000,11 - 20 years,Woman
+155,Alejandro Savely,25-34,50000,8 - 10 years,Woman
+156,Laura Armstrong,55-64,55000,31 - 40 years,Woman
+157,Denny Ordway,25-34,200000,8 - 10 years,Woman
+158,Dean Katz,25-34,41600,8 - 10 years,Woman
+159,Nathan Gelder,35-44,108150,5-7 years,Woman
+160,Mike Vittorini,35-44,76000,21 - 30 years,Woman
+161,Jack Garza,25-34,63000,11 - 20 years,Woman
+162,Bart Pistole,25-34,58500,5-7 years,Woman
+163,Victor Preis,25-34,82000,8 - 10 years,Woman
+164,Saphhira Shifley,55-64,44000,21 - 30 years,Man
+165,Anna Gayman,45-54,44000,21 - 30 years,Woman
+166,Luke Foster,25-34,95000,8 - 10 years,Woman
+167,Roy Französisch,25-34,37500,2 - 4 years,Woman
+168,Keith Herrera,55-64,400000,21 - 30 years,Man
+169,Kimberly Carter,25-34,26000,8 - 10 years,Woman
+170,Caroline Jumper,35-44,40000,5-7 years,Woman
+171,Philip Brown,35-44,42840,21 - 30 years,Woman
+172,Michael Paige,35-44,127500,11 - 20 years,Man
+173,Natalie Fritzler,35-44,55000,11 - 20 years,Woman
+174,Shirley Daniels,25-34,72000,5-7 years,Man
+175,Ken Heidel,35-44,68700,11 - 20 years,Woman
+176,Ross Baird,55-64,75000,31 - 40 years,Man
+177,Mike Kennedy,25-34,90456,5-7 years,Woman
+178,Philisse Overcash,25-34,85000,5-7 years,Woman
+179,Brenda Bowman,45-54,100000,31 - 40 years,Woman
+180,Troy Blackwell,25-34,84000,5-7 years,Woman
+181,Raymond Buch,35-44,64000,21 - 30 years,Woman
+182,Ed Braxton,25-34,54313,8 - 10 years,Man
+183,Sanjit Chand,35-44,83000,11 - 20 years,Woman
+184,Tanja Norvell,45-54,112000,21 - 30 years,Woman
+185,Joni Sundaresam,35-44,44000,11 - 20 years,Woman
+186,Maya Herman,35-44,60000,8 - 10 years,Woman
+187,Jeremy Pistek,45-54,100000,21 - 30 years,Woman
+188,Jeremy Ellison,18-24,60000,1 year or less,Woman
+189,John Grady,35-44,62400,8 - 10 years,Man
+190,Xylona Preis,35-44,60000,11 - 20 years,Woman
+191,Erin Mull,45-54,150000,21 - 30 years,Woman
+192,Michelle Tran,25-34,65000,2 - 4 years,Woman
+193,Sue Ann Reed,18-24,50000,5-7 years,Woman
+194,Carl Weiss,25-34,100000,11 - 20 years,Woman
+195,Astrea Jones,35-44,208000,11 - 20 years,Woman
+196,Sonia Sunley,25-34,55000,5-7 years,Woman
+197,Rose O'Brian,35-44,134971,8 - 10 years,Woman
+198,Maribeth Dona,25-34,95000,8 - 10 years,Woman
+199,Maribeth Yedwab,35-44,117000,11 - 20 years,Woman
+200,Christopher Martinez,18-24,75000,2 - 4 years,Woman
+201,Lynn Smith,25-34,85000,11 - 20 years,Man
+202,Bradley Nguyen,45-54,147000,21 - 30 years,Woman
+203,Dean Braden,35-44,69000,11 - 20 years,Woman
+204,Matt Connell,25-34,97000,8 - 10 years,Woman
+205,Brian Dahlen,25-34,95000,5-7 years,Woman
+206,Patricia Hirasaki,35-44,51000,11 - 20 years,Woman
+207,Mike Gockenbach,25-34,105000,2 - 4 years,Woman
+208,Karen Bern,35-44,103000,11 - 20 years,Woman
+209,Jasper Cacioppo,45-54,80000,21 - 30 years,Woman
+210,Rob Lucas,25-34,86000,2 - 4 years,Woman
+211,Allen Armold,45-54,280000,21 - 30 years,Woman
+212,Emily Phan,45-54,91000,31 - 40 years,Woman
+213,Darren Koutras,45-54,80000,31 - 40 years,Man
+214,Bradley Drucker,25-34,40000,5-7 years,Man
+215,Liz MacKendrick,25-34,68000,2 - 4 years,Woman
+216,Adrian Shami,25-34,175000,5-7 years,Woman
+217,Bill Donatelli,35-44,70000,11 - 20 years,Woman
+218,Greg Tran,25-34,60500,8 - 10 years,Woman
+219,Ashley Jarboe,45-54,56388,21 - 30 years,Man
+220,Olvera Toch,35-44,30000,11 - 20 years,Woman
+221,Liz Pelletier,25-34,41600,5-7 years,Woman
+222,Cynthia Arntzen,35-44,55,21 - 30 years,Man
+223,Jeremy Farry,35-44,40000,11 - 20 years,Woman
+224,Frank Preis,35-44,64500,5-7 years,Woman
+225,Ellis Ballard,18-24,55000,2 - 4 years,Woman
+226,Jennifer Ferguson,25-34,56410,8 - 10 years,Woman
+227,Sarah Foster,25-34,31000,8 - 10 years,Woman
+228,Trudy Glocke,25-34,57211,8 - 10 years,Woman
+229,Carlos Soltero,55-64,100000,41 years or more,Woman
+230,Charles Crestani,45-54,82000,8 - 10 years,Woman
+231,Dianna Vittorini,35-44,71000,5-7 years,Man
+232,Bruce Degenhardt,35-44,98500,11 - 20 years,Woman
+233,Zuschuss Carroll,35-44,69000,8 - 10 years,Woman
+234,Melanie Seite,35-44,30000,11 - 20 years,Woman
+235,Lena Radford,25-34,68000,2 - 4 years,Woman
+236,Theone Pippenger,25-34,100000,5-7 years,Woman
+237,Chloris Kastensmidt,35-44,76700,11 - 20 years,Woman
+238,Alan Shonely,25-34,50000,11 - 20 years,Woman
+239,Andrew Roberts,55-64,32280,31 - 40 years,Woman
+240,Nona Balk,35-44,95000,11 - 20 years,Woman
+241,Giulietta Dortch,35-44,140000,8 - 10 years,Woman
+242,Clytie Kelty,25-34,93000,11 - 20 years,Man
+243,Nat Gilpin,45-54,147000,21 - 30 years,Man
+244,Christina Anderson,35-44,42000,11 - 20 years,Woman
+245,Sylvia Foulston,35-44,73000,8 - 10 years,Man
+246,Meg O'Connel,35-44,30000,11 - 20 years,Woman
+247,Annie Thurman,45-54,106000,31 - 40 years,Woman
+248,Fred McMath,25-34,40000,2 - 4 years,Woman
+249,Denny Joy,25-34,52000,8 - 10 years,Woman
+250,Max Engle,25-34,75000,2 - 4 years,Woman
+251,Justin Deggeller,25-34,54000,5-7 years,Woman
+252,John Lee,35-44,115000,11 - 20 years,Woman
+253,Sean Christensen,55-64,47840,21 - 30 years,Woman
+254,Chuck Clark,25-34,45000,8 - 10 years,Woman
+255,Anthony Rawles,35-44,120000,11 - 20 years,Woman
+256,Steven Roelle,25-34,125000,2 - 4 years,Woman
+257,Craig Reiter,35-44,120000,21 - 30 years,Woman
+258,Eugene Hildebrand,25-34,90000,5-7 years,Woman
+259,Sibella Parks,55-64,49000,21 - 30 years,Man
+260,Tiffany House,25-34,90000,5-7 years,Woman
+261,Resi Pölking,55-64,42000,31 - 40 years,Woman
+262,Rob Beeghly,25-34,62400,11 - 20 years,Woman
+263,Carol Darley,25-34,55000,5-7 years,Woman
+264,Doug Jacobs,25-34,50000,5-7 years,Woman
+265,Grant Thornton,35-44,118000,11 - 20 years,Woman
+266,Michael Chen,35-44,84000,21 - 30 years,Woman
+267,Ralph Arnett,35-44,52500,5-7 years,Woman
+268,Naresj Patel,25-34,140000,8 - 10 years,Woman
+269,Alan Barnes,35-44,116000,11 - 20 years,Woman
+270,Jesus Ocampo,35-44,100000,11 - 20 years,Woman
+271,Jay Kimmel,25-34,93600,2 - 4 years,Woman
+272,Brad Norvell,25-34,48500,2 - 4 years,Woman
+273,David Philippe,45-54,100000,21 - 30 years,Man
+274,Tracy Hopkins,35-44,100000,11 - 20 years,Man
+275,Arthur Prichep,35-44,74000,11 - 20 years,Woman
+276,Roland Schwarz,25-34,42000,2 - 4 years,Woman
+277,Seth Vernon,45-54,75000,21 - 30 years,Woman
+278,Christine Kargatis,35-44,124000,11 - 20 years,Woman
+279,Ross DeVincentis,35-44,56000,11 - 20 years,Woman
+280,Mathew Reese,25-34,95000,11 - 20 years,Woman
+281,Steve Chapman,25-34,67000,8 - 10 years,Man
+282,Jay Fein,25-34,47000,2 - 4 years,Woman
+283,Emily Grady,35-44,76000,11 - 20 years,Woman
+284,Darrin Sayre,25-34,76000,8 - 10 years,Woman
+285,Phillina Ober,25-34,150000,8 - 10 years,Woman
+286,Sung Shariari,45-54,253300,21 - 30 years,Woman
+287,Peter Bühler,45-54,120000,21 - 30 years,Woman
+288,Roland Fjeld,35-44,47000,11 - 20 years,Woman
+289,Yoseph Carroll,35-44,73000,11 - 20 years,Woman
+290,Debra Catini,45-54,130000,21 - 30 years,Man
+291,Christine Phan,35-44,125000,8 - 10 years,Man
+292,Barry Französisch,25-34,62000,8 - 10 years,Woman
+293,Lisa Hazard,45-54,75000,21 - 30 years,Woman
+294,Chris Selesnick,35-44,75000,11 - 20 years,Woman
+295,Anthony Johnson,25-34,80000,5-7 years,Woman
+296,Benjamin Venier,25-34,50000,5-7 years,Woman
+297,Dan Lawera,18-24,52000,1 year or less,Woman
+298,Bryan Mills,25-34,60000,5-7 years,Woman
+299,Liz Thompson,18-24,46000,1 year or less,Woman
+300,Joe Kamberova,25-34,70000,8 - 10 years,Woman
+301,Erica Smith,35-44,87880,11 - 20 years,Woman
+302,Rick Hansen,25-34,65000,8 - 10 years,Woman
+303,Carlos Daly,35-44,54000,11 - 20 years,Woman
+304,Helen Wasserman,18-24,40000,1 year or less,Woman
+305,Mike Caudle,25-34,87460,8 - 10 years,Woman
+306,Gary McGarr,25-34,40200,2 - 4 years,Man
+307,Pauline Johnson,45-54,105000,21 - 30 years,Woman
+308,Bart Watters,25-34,68000,8 - 10 years,Woman
+309,Toby Ritter,25-34,57900,8 - 10 years,Woman
+310,Patrick Gardner,25-34,52000,2 - 4 years,Woman
+311,James Lanier,25-34,48000,11 - 20 years,Woman
+312,Brian Moss,25-34,77500,8 - 10 years,Woman
+313,Eudokia Martin,55-64,58,21 - 30 years,Woman
+314,Art Foster,35-44,61050,21 - 30 years,Woman
+315,Guy Armstrong,25-34,65000,5-7 years,Man
+316,Cyma Kinney,25-34,42000,5-7 years,Woman
+317,Dave Poirier,25-34,62500,2 - 4 years,Woman
+318,Berenike Kampe,35-44,52000,11 - 20 years,Woman
+319,Sanjit Jacobs,25-34,48500,5-7 years,Man
+320,Chuck Magee,18-24,43000,5-7 years,Man
+321,Anthony Jacobs,45-54,88000,21 - 30 years,Woman
+322,Linda Southworth,35-44,90000,8 - 10 years,Woman
+323,Guy Phonely,25-34,65000,5-7 years,Woman
+324,Paul Knutson,45-54,125000,21 - 30 years,Woman
+325,Sally Matthias,35-44,120000,11 - 20 years,Woman
+326,Anthony Garverick,25-34,115000,5-7 years,Woman
+327,Peter McVee,35-44,58500,8 - 10 years,Woman
+328,Lauren Leatherbury,25-34,38188,8 - 10 years,Woman
+329,Jill Stevenson,25-34,29120,2 - 4 years,Woman
+330,Ed Ludwig,25-34,70000,8 - 10 years,Woman
+331,Pamela Coakley,25-34,95000,5-7 years,Woman
+332,Hunter Lopez,35-44,129000,8 - 10 years,Woman
+333,Maribeth Schnelling,25-34,125000,5-7 years,Woman
+334,George Bell,25-34,62500,5-7 years,Woman
+335,Justin Ritter,35-44,58500,11 - 20 years,Woman
+336,Bill Eplett,25-34,70000,8 - 10 years,Woman
+337,Sample Company A,45-54,52000,11 - 20 years,Woman
+338,Rob Williams,25-34,75000,21 - 30 years,Man
+339,Sanjit Engle,35-44,130000,11 - 20 years,Man
+340,Adam Hart,35-44,450000,21 - 30 years,Woman
+341,Jessica Myrick,45-54,90000,21 - 30 years,Woman
+342,Joel Jenkins,25-34,55000,8 - 10 years,Woman
+343,Ralph Kennedy,25-34,105000,8 - 10 years,Man
+344,Catherine Glotzbach,35-44,100000,8 - 10 years,Woman
+345,Rachel Payne,45-54,104000,21 - 30 years,Woman
+346,Karen Carlisle,65 or over,27000,31 - 40 years,Woman
+347,Katherine Hughes,35-44,45000,5-7 years,Woman
+348,Greg Hansen,25-34,68000,5-7 years,Woman
+349,Scott Williamson,25-34,60000,5-7 years,Woman
+350,Joseph Airdo,25-34,58240,5-7 years,Woman
+351,Daniel Lacy,35-44,65000,21 - 30 years,Woman
+352,Lindsay Williams,35-44,62000,11 - 20 years,Woman
+353,Thomas Brumley,45-54,60680,21 - 30 years,Woman
+354,Bryan Spruell,25-34,35400,5-7 years,Woman
+355,Robert Waldorf,25-34,29000,5-7 years,Woman
+356,Tracy Zic,25-34,35350,11 - 20 years,Woman
+357,Ann Steele,35-44,52500,11 - 20 years,Man
+358,Toby Swindell,35-44,110000,11 - 20 years,Woman
+359,Sara Luxemburg,35-44,115000,11 - 20 years,Woman
+360,Mitch Willingham,35-44,66000,11 - 20 years,Man
+361,Rob Dowd,35-44,65000,11 - 20 years,Woman
+362,Ryan Akin,18-24,40560,5-7 years,Woman
+363,Meg Tillman,25-34,12000,2 - 4 years,Woman
+364,Vivek Gonzalez,45-54,120000,11 - 20 years,Woman
+365,John Stevenson,25-34,115000,11 - 20 years,Woman
+366,Kalyca Meade,35-44,95000,21 - 30 years,Woman
+367,Hallie Redmond,25-34,82000,8 - 10 years,Woman
+368,Deanra Eno,35-44,100440,11 - 20 years,Woman
+369,Allen Goldenen,45-54,44000,21 - 30 years,Woman
+370,Jennifer Jackson,55-64,54000,21 - 30 years,Woman
+371,Jennifer Halladay,25-34,33280,8 - 10 years,Man
+372,Robert Dilbeck,55-64,30284,8 - 10 years,Man
+373,Mary O'Rourke,25-34,66820,11 - 20 years,Woman
+374,Noel Staavos,25-34,110000,11 - 20 years,Man
+375,Deirdre Greer,25-34,68500,2 - 4 years,Woman
+376,Nicole Fjeld,25-34,72000,8 - 10 years,Woman
+377,Matthew Grinstein,45-54,75000,21 - 30 years,Man
+378,Theresa Swint,35-44,88007,11 - 20 years,Woman
+379,Brian DeCherney,45-54,140000,21 - 30 years,Woman
+380,Charles McCrossin,25-34,57500,8 - 10 years,Man
+381,Skye Norling,25-34,70000,8 - 10 years,Woman
+382,Erica Hernandez,35-44,130000,11 - 20 years,Woman
+383,Frank Olsen,35-44,96000,8 - 10 years,Woman
+384,Maurice Satty,25-34,110000,8 - 10 years,Woman
+385,Chad Cunningham,25-34,86000,5-7 years,Woman
+386,Don Weiss,35-44,100000,11 - 20 years,Woman
+387,Bill Tyler,55-64,105000,21 - 30 years,Woman
+388,Craig Yedwab,25-34,70000,8 - 10 years,Woman
+389,Brad Thomas,25-34,55000,5-7 years,Woman
+390,Penelope Sewall,35-44,135000,11 - 20 years,Woman
+391,Paul Van Hugh,25-34,112500,8 - 10 years,Woman
+392,Neoma Murray,45-54,68000,21 - 30 years,Woman
+393,Dionis Lloyd,18-24,59000,2 - 4 years,Man
+394,Christine Sundaresam,35-44,100000,11 - 20 years,Woman
+395,Frank Hawley,35-44,100000,11 - 20 years,Man
+396,Nat Carroll,35-44,100000,11 - 20 years,Woman
+397,Alex Avila,25-34,60171,2 - 4 years,Woman
+398,Larry Tron,18-24,24000,8 - 10 years,Man
+399,Anne Pryor,35-44,2350,8 - 10 years,Woman
+400,Paul MacIntyre,35-44,94000,11 - 20 years,Woman
+401,Alyssa Tate,25-34,50000,2 - 4 years,Woman
+402,Cathy Armstrong,35-44,52532,11 - 20 years,Woman
+403,Harold Ryan,35-44,60000,11 - 20 years,Woman
+404,Bradley Talbott,45-54,100000,21 - 30 years,Man
+405,Larry Hughes,35-44,43680,11 - 20 years,Woman
+406,Steven Ward,35-44,153000,11 - 20 years,Woman
+407,Stefania Perrino,25-34,74000,5-7 years,Woman
+408,Ben Ferrer,45-54,72000,21 - 30 years,Woman
+409,Kean Thornton,25-34,61000,5-7 years,Man
+410,Brooke Gillingham,45-54,63000,11 - 20 years,Woman
+411,Greg Matthias,25-34,135000,11 - 20 years,Woman
+412,Eva Jacobs,25-34,83900,8 - 10 years,Man
+413,Nora Preis,25-34,49000,2 - 4 years,Woman
+414,Mick Hernandez,35-44,53000,11 - 20 years,Woman
+415,Jocasta Rupert,35-44,59000,11 - 20 years,Woman
+416,Suzanne McNair,35-44,62000,8 - 10 years,Woman
+417,Chris Cortes,35-44,75000,11 - 20 years,Woman
+418,Phillip Flathmann,25-34,0,5-7 years,Woman
+419,Dan Campbell,45-54,37440,11 - 20 years,Woman
+420,Bryan Davis,25-34,77500,5-7 years,Man
+421,Gene McClure,25-34,75000,5-7 years,Woman
+422,Todd Boyes,35-44,62400,11 - 20 years,Woman
+423,Justin Hirsh,45-54,44000,11 - 20 years,Woman
+424,Erica Bern,35-44,64000,11 - 20 years,Woman
+425,Quincy Jones,18-24,108000,2 - 4 years,Woman
+426,Tracy Collins,25-34,57383,8 - 10 years,Woman
+427,Chuck Sachs,45-54,40,11 - 20 years,Woman
+428,Henry Goldwyn,45-54,33280,8 - 10 years,Woman
+429,Laurel Workman,35-44,49500,11 - 20 years,Woman
+430,Matt Collins,25-34,135000,2 - 4 years,Woman
+431,Liz Preis,25-34,37500,2 - 4 years,Man
+432,Evan Bailliet,45-54,68000,21 - 30 years,Woman
+433,George Zrebassa,25-34,90000,5-7 years,Woman
+434,Cathy Prescott,35-44,55000,11 - 20 years,Woman
+435,Frank Gastineau,25-34,90000,8 - 10 years,Woman
+436,Lisa DeCherney,35-44,67000,21 - 30 years,Woman
+437,Alejandro Ballentine,45-54,135000,21 - 30 years,Man
+438,Michael Nguyen,35-44,77200,11 - 20 years,Woman
+439,Jim Radford,35-44,67231,11 - 20 years,Woman
+440,Jamie Frazer,35-44,35172,11 - 20 years,Woman
+441,Chad McGuire,35-44,53000,11 - 20 years,Woman
+442,Aaron Smayling,55-64,99952,41 years or more,Woman
+443,Beth Paige,45-54,70000,21 - 30 years,Woman
+444,Natalie DeCherney,25-34,102000,5-7 years,Woman
+445,Larry Blacks,45-54,104000,21 - 30 years,Woman
+446,Kean Takahito,35-44,52000,8 - 10 years,Woman
+447,Harry Marie,35-44,80000,11 - 20 years,Woman
+448,Ann Blume,45-54,73000,31 - 40 years,Woman
+449,Sam Zeldin,25-34,110000,8 - 10 years,Woman
+450,Michael Granlund,18-24,40000,2 - 4 years,Woman
+451,Julie Kriz,25-34,33000,8 - 10 years,Woman
+452,Paul Prost,25-34,100800,11 - 20 years,Woman
+453,Yana Sorensen,25-34,60000,2 - 4 years,Woman
+454,Katherine Murray,25-34,111360,8 - 10 years,Woman
+455,Adrian Barton,35-44,90000,11 - 20 years,Woman
+456,Helen Abelman,35-44,58000,11 - 20 years,Man
+457,Beth Thompson,25-34,56000,2 - 4 years,Man
+458,Stuart Van,45-54,60000,21 - 30 years,Woman
+459,Rick Wilson,35-44,43680,8 - 10 years,Woman
+460,Damala Kotsonis,45-54,116000,11 - 20 years,Woman
+461,Shui Tom,25-34,29120,5-7 years,Woman
+462,Michael Moore,25-34,35600,5-7 years,Woman
+463,Pauline Webber,35-44,83200,11 - 20 years,Woman
+464,Shaun Chance,25-34,66617,5-7 years,Woman
+465,Thais Sissman,35-44,65557,21 - 30 years,Woman
+466,Mark Cousins,25-34,48000,5-7 years,Woman
+467,Maria Etezadi,25-34,82000,8 - 10 years,Woman
+468,Nicole Hansen,25-34,47840,8 - 10 years,Woman
+469,Mick Brown,25-34,48000,2 - 4 years,Woman
+470,Keith Dawkins,25-34,58240,5-7 years,Woman
+471,Katherine Nockton,25-34,87000,5-7 years,Woman
+472,Nora Pelletier,25-34,70000,5-7 years,Woman
+473,Cindy Stewart,25-34,62000,11 - 20 years,Woman
+474,Maxwell Schwartz,25-34,52000,2 - 4 years,Woman
+475,Corinna Mitchell,18-24,49000,2 - 4 years,Woman
+476,Corey-Lock,25-34,68000,8 - 10 years,Woman
+477,Todd Sumrall,25-34,62000,8 - 10 years,Woman
+478,Jane Waco,45-54,98500,11 - 20 years,Woman
+479,John Dryer,35-44,40206,21 - 30 years,Woman
+480,Pauline Chand,35-44,66703,11 - 20 years,Woman
+481,Andy Reiter,35-44,58000,11 - 20 years,Man
+482,Arianne Irving,55-64,81000,21 - 30 years,Woman
+483,Tom Boeckenhauer,25-34,78000,8 - 10 years,Woman
+484,Paul Lucas,55-64,63000,31 - 40 years,Woman
+485,Gary Hwang,25-34,26000,2 - 4 years,Woman
+486,Mike Pelletier,25-34,55000,5-7 years,Woman
+487,Jim Mitchum,35-44,75000,11 - 20 years,Woman
+488,Carl Ludwig,45-54,92000,11 - 20 years,Woman
+489,Deborah Brumfield,25-34,42000,8 - 10 years,Woman
+490,Ivan Gibson,25-34,51000,5-7 years,Woman
+491,Bobby Odegard,25-34,39000,5-7 years,Man
+492,Aimee Bixby,25-34,53000,11 - 20 years,Woman
+493,Julia West,25-34,41120,2 - 4 years,Woman
+494,Edward Becker,25-34,40830,8 - 10 years,Woman
+495,Sheri Gordon,25-34,43000,11 - 20 years,Woman
+496,Charlotte Melton,45-54,20200,21 - 30 years,Woman
+497,Anthony Witt,55-64,41394,8 - 10 years,Woman
+498,Mick Crebagga,35-44,46183,11 - 20 years,Man
+499,Tonja Turnell,25-34,55200,11 - 20 years,Woman
+500,Vivek Grady,25-34,49000,11 - 20 years,Woman
+501,Muhammed Yedwab,25-34,38480,2 - 4 years,Woman
+502,Rick Duston,25-34,24252,1 year or less,Woman
+503,Dennis Pardue,25-34,40000,5-7 years,Woman
+504,Marina Lichtenstein,45-54,85000,21 - 30 years,Woman
+505,Jenna Caffey,25-34,31000,8 - 10 years,Woman
+506,James Galang,35-44,81916,11 - 20 years,Woman
+507,Marc Crier,25-34,50000,8 - 10 years,Woman
+508,Natalie Webber,25-34,50000,5-7 years,Woman
+509,Toby Braunhardt,35-44,74446,5-7 years,Man
+510,Bill Stewart,35-44,111000,11 - 20 years,Woman
+511,Hilary Holden,25-34,75000,5-7 years,Woman
+512,Christina DeMoss,35-44,72775,11 - 20 years,Man
+513,Thea Hendricks,35-44,45000,11 - 20 years,Woman
+514,Michelle Moray,25-34,68000,8 - 10 years,Woman
+515,Neola Schneider,25-34,87000,11 - 20 years,Woman
+516,Robert Barroso,25-34,180000,11 - 20 years,Man
+517,Shaun Weien,45-54,70000,21 - 30 years,Woman
+518,Eric Barreto,25-34,66250,8 - 10 years,Woman
+519,Pamela Stobb,35-44,109000,11 - 20 years,Woman
+520,Herbert Flentye,35-44,94000,11 - 20 years,Woman
+521,Henia Zydlo,25-34,114240,5-7 years,Man
+522,Cynthia Delaney,25-34,70000,8 - 10 years,Woman
+523,Jamie Kunitz,35-44,38800,11 - 20 years,Man
+524,Filia McAdams,55-64,67000,41 years or more,Woman
+525,Emily Ducich,25-34,100000,5-7 years,Woman
+526,Dianna Arnett,25-34,58212,8 - 10 years,Woman
+527,Joni Wasserman,25-34,67580,5-7 years,Man
+528,Raymond Messe,45-54,64000,21 - 30 years,Woman
+529,Max Ludwig,25-34,55000,2 - 4 years,Woman
+530,Craig Carroll,25-34,58000,5-7 years,Woman
+531,Jim Epp,25-34,71500,11 - 20 years,Woman
+532,Roy Phan,25-34,95000,8 - 10 years,Woman
+533,Thomas Boland,35-44,125000,11 - 20 years,Woman
+534,Brad Eason,35-44,90898,21 - 30 years,Woman
+535,Jill Fjeld,35-44,105000,5-7 years,Woman
+536,Phillip Breyer,25-34,130000,5-7 years,Woman
+537,Brian Thompson,55-64,60000,31 - 40 years,Woman
+538,Janet Lee,45-54,30000,21 - 30 years,Woman
+539,Cathy Hwang,35-44,75950,8 - 10 years,Woman
+540,Neil Ducich,25-34,43000,8 - 10 years,Woman
+541,Barbara Fisher,25-34,33000,8 - 10 years,Woman
+542,Katharine Harms,35-44,133000,21 - 30 years,Woman
+543,Giulietta Weimer,45-54,220000,21 - 30 years,Man
+544,Noah Childs,35-44,51079,11 - 20 years,Man
+545,Michelle Ellison,25-34,30000,2 - 4 years,Woman
+546,Benjamin Patterson,35-44,73611,11 - 20 years,Woman
+547,John Castell,35-44,120000,11 - 20 years,Woman
+548,Adam Shillingsburg,45-54,125000,21 - 30 years,Woman
+549,Amy Cox,35-44,82000,11 - 20 years,Woman
+550,Michael Dominguez,45-54,55140,11 - 20 years,Woman
+551,Duane Benoit,25-34,65000,8 - 10 years,Woman
+552,Erica Hackney,35-44,74568,11 - 20 years,Man
+553,Edward Hooks,25-34,59750,5-7 years,Woman
+554,Scot Coram,18-24,49000,2 - 4 years,Woman
+555,Joe Elijah,35-44,66000,11 - 20 years,Woman
+556,Ann Chong,25-34,54953,5-7 years,Woman
+557,Joy Daniels,55-64,63000,21 - 30 years,Woman
+558,Christy Brittain,25-34,52000,5-7 years,Woman
+559,Joy Smith,25-34,35000,5-7 years,Woman
+560,Luke Weiss,35-44,65000,11 - 20 years,Woman
+561,Stuart Calhoun,25-34,52000,8 - 10 years,Woman
+562,Anne McFarland,25-34,40,2 - 4 years,Woman
+563,Rick Huthwaite,25-34,36663,8 - 10 years,Woman
+564,Carol Triggs,45-54,75544,11 - 20 years,Woman
+565,Matt Collister,55-64,43680,21 - 30 years,Man
+566,Corey Catlett,25-34,35360,5-7 years,Woman
+567,Kelly Andreada,25-34,42000,8 - 10 years,Woman
+568,Tamara Chand,25-34,65000,11 - 20 years,Man
+569,Bart Folk,25-34,58000,5-7 years,Woman
+570,Magdelene Morse,25-34,56000,2 - 4 years,Man
+571,Adrian Hane,35-44,100000,11 - 20 years,Woman
+572,Ben Wallace,25-34,50000,11 - 20 years,Woman
+573,Scot Wooten,25-34,35000,8 - 10 years,Woman
+574,Brian Stugart,25-34,115000,5-7 years,Woman
+575,Randy Ferguson,25-34,56997,5-7 years,Woman
+576,William Brown,35-44,108000,11 - 20 years,Woman
+577,Trudy Brown,25-34,69000,5-7 years,Woman
+578,Art Ferguson,25-34,43000,2 - 4 years,Woman
+579,Richard Bierner,35-44,69000,11 - 20 years,Woman
+580,Karen Ferguson,25-34,46700,8 - 10 years,Woman
+581,John Huston,35-44,111000,21 - 30 years,Woman
+582,Ivan Liston,35-44,72000,11 - 20 years,Woman
+583,Patrick Bzostek,25-34,62000,8 - 10 years,Man
+584,Rob Haberlin,25-34,122000,8 - 10 years,Woman
+585,Arthur Wiediger,25-34,45000,2 - 4 years,Woman
+586,Maris LaWare,35-44,36400,5-7 years,Woman
+587,Dorothy Badders,25-34,41000,11 - 20 years,Man
+588,Matt Hagelstein,25-34,82000,8 - 10 years,Woman
+589,Dennis Kane,25-34,59000,8 - 10 years,Woman
+590,Bobby Trafton,45-54,120000,21 - 30 years,Woman
+591,Denny Blanton,25-34,60000,2 - 4 years,Woman
+592,Toby Gnade,35-44,56000,11 - 20 years,Woman
+593,Barry Franz,25-34,75000,2 - 4 years,Woman
+594,Justin MacKendrick,45-54,43000,21 - 30 years,Woman
+595,Maria Zettner,18-24,45000,1 year or less,Woman
+596,Mitch Webber,25-34,110000,11 - 20 years,Woman
+597,Mark Van Huff,35-44,105500,11 - 20 years,Woman
+598,Sean Miller,35-44,37000,11 - 20 years,Woman
+599,Tom Prescott,45-54,90000,21 - 30 years,Woman
+600,Jim Karlsson,35-44,63000,8 - 10 years,Woman
+601,Patrick Jones,35-44,27460,11 - 20 years,Woman
+602,Ricardo Sperren,25-34,51001,5-7 years,Woman
+603,Susan Vittorini,35-44,72000,11 - 20 years,Woman
+604,Becky Castell,35-44,43800,8 - 10 years,Woman
+605,Elizabeth Moffitt,25-34,41500,5-7 years,Woman
+606,Brendan Murry,35-44,75000,2 - 4 years,Woman
+607,Kristina Nunn,45-54,53000,21 - 30 years,Woman
+608,Kelly Williams,35-44,41600,11 - 20 years,Woman
+609,Scott Cohen,25-34,35360,11 - 20 years,Woman
+610,Christina VanderZanden,25-34,48500,5-7 years,Man
+611,Speros Goranitis,35-44,25000,11 - 20 years,Woman
+612,Tamara Manning,55-64,220000,31 - 40 years,Woman
+613,Eleni McCrary,35-44,168000,11 - 20 years,Woman
+614,Michelle Lonsdale,25-34,125000,2 - 4 years,Woman
+615,Clay Rozendal,25-34,125760,8 - 10 years,Woman
+616,Annie Zypern,55-64,188000,41 years or more,Woman
+617,Pierre Wener,45-54,165000,21 - 30 years,Woman
+618,Shahid Collister,45-54,180000,21 - 30 years,Woman
+619,Carlos Meador,35-44,185000,11 - 20 years,Woman
+620,Greg Maxwell,35-44,128000,11 - 20 years,Woman
+621,Tim Brockman,45-54,168000,11 - 20 years,Woman
+622,John Murray,18-24,104500,2 - 4 years,Woman
+623,Sonia Cooley,45-54,96304,21 - 30 years,Woman
+624,Luke Schmidt,35-44,126000,11 - 20 years,Woman
+625,Ralph Ritter,45-54,185000,21 - 30 years,Woman
+626,Daniel Byrd,35-44,188000,11 - 20 years,Woman
+627,Thomas Thornton,35-44,230000,8 - 10 years,Woman
+628,Lori Olson,35-44,96000,11 - 20 years,Man
+629,Ken Dana,55-64,93500,21 - 30 years,Woman
+630,Nicole Brennan,55-64,114000,31 - 40 years,Woman
+631,Brian Derr,25-34,68500,5-7 years,Woman
+632,Chris McAfee,35-44,199900,21 - 30 years,Woman
+633,Edward Nazzal,35-44,90000,11 - 20 years,Woman
+634,Kean Nguyen,45-54,120000,11 - 20 years,Woman
+635,Bill Overfelt,45-54,64000,21 - 30 years,Woman
+636,Aleksandra Gannaway,35-44,160000,8 - 10 years,Woman
+637,Matthew Clasen,35-44,227500,11 - 20 years,Man
+638,Tom Ashbrook,35-44,124000,21 - 30 years,Woman
+639,Jason Fortune-,35-44,125000,5-7 years,Man
+640,Tim Taslimi,35-44,161000,21 - 30 years,Man
+641,Sarah Bern,25-34,160000,8 - 10 years,Woman
+642,Craig Leslie,35-44,106000,11 - 20 years,Woman
+643,Hunter Glantz,45-54,194000,21 - 30 years,Woman
+644,Nancy Lomonaco,35-44,160000,11 - 20 years,Woman
+645,Rick Reed,25-34,72000,2 - 4 years,Woman
+646,Toby Carlisle,35-44,66500,8 - 10 years,Woman
+647,Stewart Visinsky,45-54,103000,11 - 20 years,Woman
+648,Bobby Elias,35-44,72000,11 - 20 years,Woman
+649,Steve Carroll,25-34,82000,5-7 years,Woman
+650,David Flashing,25-34,103000,5-7 years,Woman
+651,Fred Harton,18-24,42000,1 year or less,Woman
+652,MaryBeth Skach,25-34,78000,5-7 years,Woman
+653,Ritsa Hightower,35-44,65000,11 - 20 years,Man
+654,George Ashbrook,18-24,48000,2 - 4 years,Woman
+655,Julie Prescott,25-34,40000,2 - 4 years,Woman
+656,Dean percer,25-34,105000,8 - 10 years,Woman
+657,Michael Oakman,25-34,69000,5-7 years,Woman
+658,Denise Leinenbach,25-34,108500,11 - 20 years,Woman
+659,Michelle Huthwaite,35-44,82000,21 - 30 years,Woman
+660,Daniel Raglin,25-34,60000,8 - 10 years,Woman
+661,Darrin Martin,35-44,87000,11 - 20 years,Woman
+662,Carol Adams,25-34,62500,8 - 10 years,Woman
+663,Anna Chung,35-44,68500,11 - 20 years,Woman
+664,Denise Monton,35-44,40000,11 - 20 years,Woman
+665,Vicky Freymann,45-54,62000,21 - 30 years,Woman
+666,Christopher Conant,35-44,75000,11 - 20 years,Woman
+667,Beth Fritzler,45-54,115000,21 - 30 years,Woman
+668,Harry Greene,45-54,43500,21 - 30 years,Man
+669,Becky Pak,35-44,103000,11 - 20 years,Woman
+670,Eugene Moren,25-34,134125,5-7 years,Woman
+671,Michelle Arnett,25-34,65000,8 - 10 years,Man
+672,Andy Yotov,25-34,56500,5-7 years,Woman
+673,Giulietta Baptist,45-54,140000,21 - 30 years,Woman
+674,Julia Barnett,55-64,34500,11 - 20 years,Woman
+675,Michael Grace,25-34,125000,11 - 20 years,Man
+676,Sharelle Roach,35-44,81600,11 - 20 years,Woman
+677,Joy Bell-,25-34,78000,2 - 4 years,Woman
+678,Dario Medina,25-34,83000,8 - 10 years,Woman
+679,Tony Chapman,35-44,77625,11 - 20 years,Woman
+680,Sean Wendt,25-34,60000,11 - 20 years,Woman
+681,Richard Eichhorn,45-54,56784,21 - 30 years,Woman
+682,Benjamin Farhat,65 or over,104000,41 years or more,Man
+683,Katrina Bavinger,25-34,56000,11 - 20 years,Man
+684,Jason Gross,35-44,60000,8 - 10 years,Woman
+685,Erin Creighton,35-44,120000,11 - 20 years,Woman
+686,Eugene Barchas,25-34,88000,5-7 years,Woman
+687,Jennifer Patt,35-44,65949,11 - 20 years,Woman
+688,Cari Sayre,25-34,55000,2 - 4 years,Woman
+689,Gary Hansen,25-34,65000,5-7 years,Woman
+690,Pete Takahito,25-34,67000,8 - 10 years,Woman
+691,Jack Lebron,35-44,118000,8 - 10 years,Woman
+692,Aaron Hawkins,25-34,71989,2 - 4 years,Woman
+693,Cindy Chapman,35-44,127000,11 - 20 years,Woman
+694,David Wiener,25-34,41800,5-7 years,Woman
+695,Sarah Jordon,25-34,54511,5-7 years,Woman
+696,Bruce Geld,35-44,61157,11 - 20 years,Woman
+697,Laurel Beltran,25-34,44500,5-7 years,Woman
+698,Candace McMahon,25-34,49500,5-7 years,Woman
+699,Evan Henry,35-44,65000,11 - 20 years,Woman
+700,Tony Sayre,25-34,62000,11 - 20 years,Woman
+701,Patrick Ryan,45-54,76302,21 - 30 years,Woman
+702,Liz Carlisle,35-44,100000,11 - 20 years,Woman
+703,Cindy Schnelling,25-34,50160,2 - 4 years,Woman
+704,Dave Hallsten,25-34,35360,5-7 years,Woman
+705,Jack O'Briant,25-34,82550,8 - 10 years,Man
+706,Anna Häberlin,25-34,47000,1 year or less,Man
+707,Heather Jas,55-64,72000,21 - 30 years,Woman
+708,Mark Hamilton,25-34,81000,5-7 years,Woman
+709,Russell D'Ascenzo,25-34,33000,2 - 4 years,Woman
+710,Sam Craven,35-44,37000,5-7 years,Woman
+711,Stephanie Ulpright,35-44,52000,11 - 20 years,Woman
+712,Fred Chung,35-44,57500,11 - 20 years,Woman
+713,Randy Bradley,45-54,69000,21 - 30 years,Woman
+714,Nick Crebassa,45-54,81500,21 - 30 years,Woman
+715,Darren Budd,25-34,86200,8 - 10 years,Man
+716,Maureen Fritzler,25-34,55000,2 - 4 years,Man
+717,Roland Murray,25-34,38700,2 - 4 years,Woman
+718,Vivian Mathis,35-44,160000,21 - 30 years,Woman
+719,Ed Jacobs,25-34,60000,2 - 4 years,Woman
+720,Nathan Cano,45-54,90000,31 - 40 years,Woman
+721,Lycoris Saunders,18-24,67000,1 year or less,Man
+722,Katrina Edelman,25-34,120000,11 - 20 years,Woman
+723,Duane Huffman,25-34,47000,5-7 years,Woman
+724,Peter Fuller,35-44,55000,21 - 30 years,Woman
+725,Valerie Takahito,25-34,50000,11 - 20 years,Woman
+726,Maureen Gnade,35-44,155000,11 - 20 years,Man
+727,Susan Pistek,35-44,73000,8 - 10 years,Man
+728,Charles Sheldon,35-44,63000,8 - 10 years,Woman
+729,Dana Kaydos,55-64,70000,21 - 30 years,Woman
+730,Khloe Miller,25-34,47500,8 - 10 years,Woman
+731,Anna Andreadi,45-54,114000,21 - 30 years,Woman
+732,Dorothy Dickinson,25-34,47445,8 - 10 years,Woman
+733,Amy Hunt,18-24,62000,2 - 4 years,Woman
+734,Tracy Poddar,35-44,47008,11 - 20 years,Woman
+735,Eileen Kiefer,25-34,65000,8 - 10 years,Man
+736,Cyra Reiten,25-34,38563,5-7 years,Woman
+737,Susan Gilcrest,45-54,181290,21 - 30 years,Woman
+738,Angele Hood,25-34,66000,2 - 4 years,Woman
+739,Neil Französisch,35-44,75000,11 - 20 years,Woman
+740,Bill Shonely,25-34,70980,11 - 20 years,Woman
+741,Stefanie Holloman,35-44,100000,11 - 20 years,Man
+742,Roger Demir,45-54,58000,21 - 30 years,Woman
+743,Alex Grayson,25-34,54000,11 - 20 years,Woman
+744,Georgia Rosenberg,35-44,53000,11 - 20 years,Man
+745,Vivek Sundaresam,55-64,49500,31 - 40 years,Woman
+746,Tony Molinari,25-34,62400,5-7 years,Woman
+747,Tom Stivers,35-44,31200,21 - 30 years,Woman
+748,Dennis Bolton,25-34,32000,8 - 10 years,Woman
+749,Nick Radford,45-54,54080,11 - 20 years,Woman
+750,Cari Schnelling,35-44,127500,11 - 20 years,Woman
+751,Monica Federle,45-54,170000,21 - 30 years,Woman
+752,Liz Willingham,35-44,170000,11 - 20 years,Woman
+753,Alex Russell,35-44,65000,11 - 20 years,Woman
+754,Karen Seio,45-54,71000,11 - 20 years,Woman
+755,Aaron Bergman,25-34,87000,5-7 years,Woman
+756,Lisa Ryan,35-44,66000,8 - 10 years,Man
+757,Shahid Shariari,25-34,76000,2 - 4 years,Woman
+758,Jill Matthias,35-44,75000,11 - 20 years,Woman
+759,Jason Klamczynski,25-34,65000,5-7 years,Woman
+760,Don Miller,55-64,90000,41 years or more,Woman
+761,Muhammed Lee,35-44,130000,21 - 30 years,Woman
+762,Marc Harrigan,35-44,53000,11 - 20 years,Woman
+763,Frank Carlisle,25-34,58000,11 - 20 years,Woman
+764,Thea Hudgings,35-44,74500,11 - 20 years,Woman
+765,Juliana Krohn,25-34,50000,5-7 years,Woman
+766,Sarah Brown,35-44,115000,11 - 20 years,Woman
+767,Barry Gonzalez,25-34,90000,2 - 4 years,Woman
+768,Barry Weirich,35-44,55000,11 - 20 years,Man
+769,Mitch Gastineau,25-34,58500,2 - 4 years,Woman
+770,Doug O'Connell,55-64,175000,31 - 40 years,Woman
+771,Barry Pond,25-34,110000,5-7 years,Woman
+772,Trudy Schmidt,18-24,15080,2 - 4 years,Woman
+773,Evan Minnotte,25-34,55000,8 - 10 years,Woman
+774,Anthony O'Donnell,45-54,63000,21 - 30 years,Woman
+775,Mark Haberlin,18-24,35360,2 - 4 years,Woman
+776,Shirley Schmidt,25-34,107000,8 - 10 years,Woman
+777,Lela Donovan,25-34,118000,5-7 years,Woman
+778,Victoria Pisteka,35-44,184000,11 - 20 years,Woman
+779,Theresa Coyne,35-44,31200,11 - 20 years,Woman
+780,Ionia McGrath,25-34,55000,11 - 20 years,Woman
+781,Anemone Ratner,25-34,36000,11 - 20 years,Woman
+782,Craig Molinari,25-34,102924,11 - 20 years,Woman
+783,Fred Wasserman,35-44,67000,21 - 30 years,Woman
+784,Lindsay Castell,65 or over,13000,21 - 30 years,Woman
+785,Harold Engle,25-34,48000,2 - 4 years,Woman
+786,Brendan Dodson,25-34,89000,5-7 years,Man
+787,Harold Dahlen,18-24,41600,2 - 4 years,Woman
+788,Carl Jackson,25-34,39520,8 - 10 years,Woman
+789,Roy Skaria,25-34,76000,8 - 10 years,Woman
+790,Sung Chung,35-44,96000,11 - 20 years,Woman
+791,Ricardo Emerson,25-34,55000,11 - 20 years,Woman
+792,Susan MacKendrick,35-44,40200,11 - 20 years,Woman
+793,Lily Vance,35-44,65364,11 - 20 years,Man
+794,Anna Skinner,18-24,59000,2 - 4 years,Woman
+795,Anthony McGrath,35-44,55000,11 - 20 years,Man
+796,Virginia Parsons,25-34,65000,2 - 4 years,Woman
+797,Irene Mackay,45-54,103000,11 - 20 years,Woman
+798,Oliver Nash,35-44,82000,5-7 years,Man
+799,Keith Ferguson,45-54,131000,21 - 30 years,Woman
+800,Lillian Stewart,35-44,110500,11 - 20 years,Woman
+801,Edward Campbell,25-34,70000,8 - 10 years,Woman
+802,Sam Poole,18-24,38784,2 - 4 years,Man
+803,Michael Payne,35-44,76000,11 - 20 years,Man
+804,Fiona Alsop,25-34,35500,5-7 years,Woman
+805,Jack Wilson,25-34,80000,2 - 4 years,Woman
+806,Connor Abraham,45-54,70000,11 - 20 years,Woman
+807,Carl Bailey,45-54,55500,11 - 20 years,Woman
+808,Warren Smith,35-44,120000,8 - 10 years,Man
+809,Theresa Mackenie,25-34,48000,1 year or less,Woman
+810,Irene Nolan,35-44,122000,11 - 20 years,Woman
+811,Matt Pullman,35-44,125000,21 - 30 years,Woman
+812,Virginia Walker,35-44,85000,11 - 20 years,Woman
+813,Colin Reid,25-34,70000,11 - 20 years,Man
+814,Jason Greene,45-54,51000,21 - 30 years,Woman
+815,Zoe Thomson,55-64,48000,31 - 40 years,Woman
+816,Gordon Hughes,35-44,124800,21 - 30 years,Woman
+817,Anthony Simpson,35-44,41000,5-7 years,Woman
+818,Paul Hudson,55-64,35000,31 - 40 years,Woman
+819,Thomas Mills,35-44,129000,11 - 20 years,Man
+820,Adrian Ince,35-44,91000,11 - 20 years,Woman
+821,Zoe Murray,25-34,55000,2 - 4 years,Woman
+822,Evan Sharp,45-54,53000,21 - 30 years,Woman
+823,Bella Clarkson,45-54,160000,21 - 30 years,Man
+824,Alison Newman,45-54,68000,11 - 20 years,Woman
+825,Alan Paige,45-54,145000,21 - 30 years,Woman
+826,Fiona Hunter,25-34,115000,5-7 years,Woman
+827,Felicity Butler,45-54,190000,21 - 30 years,Woman
+828,Julia Payne,25-34,105000,5-7 years,Woman
+829,Gabrielle Rutherford,35-44,45000,8 - 10 years,Woman
+830,Christian Butler,25-34,300000,8 - 10 years,Woman
+831,Jacob Mathis,35-44,59900,11 - 20 years,Woman
+832,Hannah Ellison,25-34,62400,8 - 10 years,Woman
+833,Andrew Metcalfe,35-44,125000,11 - 20 years,Woman
+834,Kylie Vance,35-44,60000,11 - 20 years,Woman
+835,Thomas Paige,35-44,75000,11 - 20 years,Woman
+836,Sarah Dickens,45-54,45000,21 - 30 years,Woman
+837,Alison Underwood,55-64,116000,31 - 40 years,Woman
+838,Una Kerr,35-44,0,21 - 30 years,Woman
+839,Joshua Nolan,25-34,40000,8 - 10 years,Woman
+840,Lucas Gray,45-54,135000,11 - 20 years,Woman
+841,Elizabeth Avery,25-34,120000,5-7 years,Woman
+842,Carolyn Cornish,25-34,150000,5-7 years,Man
+843,Zoe Morrison,35-44,195000,8 - 10 years,Woman
+844,Austin Rampling,18-24,0,5-7 years,Woman
+845,Jane Newman,25-34,52000,8 - 10 years,Woman
+846,Michael Sutherland,25-34,56000,5-7 years,Woman
+847,David Abraham,25-34,61800,8 - 10 years,Woman
+848,Andrea Dyer,35-44,93000,11 - 20 years,Woman
+849,Gordon Greene,45-54,144656,21 - 30 years,Woman
+850,Cameron Ball,25-34,71000,5-7 years,Woman
+851,Rachel Bell,25-34,76000,5-7 years,Woman
+852,Dylan Chapman,25-34,46280,11 - 20 years,Woman
+853,Edward Edmunds,35-44,103000,11 - 20 years,Woman
+854,Jake Walker,45-54,42000,21 - 30 years,Woman
+855,Andrea Oliver,25-34,35360,8 - 10 years,Woman
+856,Samantha Campbell,35-44,160000,11 - 20 years,Woman
+857,Victor Arnold,45-54,92000,21 - 30 years,Woman
+858,Victoria Marshall,45-54,190000,21 - 30 years,Woman
+859,Richard Hardacre,55-64,97000,31 - 40 years,Woman
+860,Vanessa Quinn,25-34,58000,8 - 10 years,Woman
+861,Ava Arnold,35-44,98000,21 - 30 years,Woman
+862,Lillian Abraham,25-34,87500,8 - 10 years,Woman
+863,Lillian McLean,25-34,78894,2 - 4 years,Woman
+864,Ava King,35-44,84500,11 - 20 years,Woman
+865,Elizabeth Murray,25-34,56160,5-7 years,Woman
+866,Anthony Gibson,35-44,90280,11 - 20 years,Woman
+867,Liam Hunter,35-44,62500,11 - 20 years,Woman
+868,Jake Taylor,25-34,20800,2 - 4 years,Woman
+869,Melanie Walsh,35-44,57000,11 - 20 years,Woman
+870,Connor Stewart,35-44,183000,11 - 20 years,Woman
+871,Amanda Carr,25-34,65100,8 - 10 years,Woman
+872,Warren Hardacre,25-34,67000,5-7 years,Woman
+873,Jonathan Slater,35-44,67000,11 - 20 years,Woman
+874,Nicholas Ball,45-54,68700,21 - 30 years,Woman
+875,Amelia Lewis,35-44,75000,8 - 10 years,Woman
+876,Nicola Kerr,25-34,60000,5-7 years,Woman
+877,Jane Wright,25-34,43000,1 year or less,Man
+878,Stephen Davidson,25-34,38000,11 - 20 years,Woman
+879,Robert Reid,35-44,80000,21 - 30 years,Woman
+880,Kylie Dyer,35-44,145000,11 - 20 years,Woman
+881,Frank Hamilton,25-34,103586,5-7 years,Woman
+882,Andrew Hamilton,35-44,80000,8 - 10 years,Man
+883,Tracey Mackenzie,25-34,54000,5-7 years,Woman
+884,Leonard Gray,25-34,43000,5-7 years,Woman
+885,Colin Piper,25-34,36000,2 - 4 years,Woman
+886,Sean Avery,25-34,104000,11 - 20 years,Woman
+887,Stewart Forsyth,35-44,134000,11 - 20 years,Woman
+888,Nicholas Henderson,45-54,60320,21 - 30 years,Man
+889,Karen Wallace,18-24,82000,2 - 4 years,Woman
+890,Stewart Nash,35-44,78000,11 - 20 years,Woman
+891,Emma Miller,25-34,25000,11 - 20 years,Woman
+892,Gabrielle Sutherland,35-44,35000,11 - 20 years,Woman
+893,Lauren Robertson,25-34,89000,5-7 years,Woman
+894,Piers Hodges,35-44,37400,11 - 20 years,Man
+895,Joshua Jackson,35-44,44000,8 - 10 years,Woman
+896,Lauren Clarkson,25-34,49000,8 - 10 years,Woman
+897,Ella Lee,25-34,108000,5-7 years,Man
+898,Brandon Davidson,45-54,45000,21 - 30 years,Woman
+899,Felicity MacLeod,35-44,90000,11 - 20 years,Woman
+900,Dominic Clean,25-34,70000,5-7 years,Woman
+901,Elizabeth James,35-44,41600,11 - 20 years,Woman
+902,Ava Mackenzie,25-34,55000,1 year or less,Woman
+903,James Jones,25-34,37440,11 - 20 years,Man
+904,Simon Underwood,55-64,40000,21 - 30 years,Woman
+905,Victoria Allan,35-44,47500,8 - 10 years,Man
+906,Carl Hill,35-44,46000,21 - 30 years,Woman
+907,Isaac Hemmings,25-34,37000,11 - 20 years,Woman
+908,Alan Hamilton,65 or over,140000,41 years or more,Woman
+909,Wendy Underwood,25-34,50000,8 - 10 years,Man
+910,Oliver Piper,35-44,72800,21 - 30 years,Man
+911,Maria MacLeod,25-34,69000,8 - 10 years,Woman
+912,Megan Brown,45-54,90000,21 - 30 years,Woman
+913,Chloe Kerr,55-64,62000,31 - 40 years,Woman
+914,Justin Cameron,65 or over,50000,31 - 40 years,Woman
+915,Sonia Robertson,55-64,76147,31 - 40 years,Woman
+916,Dominic Black,35-44,38000,11 - 20 years,Woman
+917,Jason Coleman,25-34,50000,8 - 10 years,Woman
+918,Bernadette Mills,25-34,37500,8 - 10 years,Man
+919,Mary Hamilton,35-44,72000,11 - 20 years,Man
+920,Kevin Young,35-44,85000,11 - 20 years,Woman
+921,Theresa Young,35-44,61500,11 - 20 years,Woman
+922,Harry Newman,25-34,52000,2 - 4 years,Woman
+923,Gabrielle Rampling,35-44,16000,11 - 20 years,Woman
+924,Ava Gray,35-44,56000,21 - 30 years,Woman
+925,Harry Churchill,55-64,80000,31 - 40 years,Woman
+926,Hannah Parr,35-44,37419,11 - 20 years,Woman
+927,Deirdre James,45-54,87938,21 - 30 years,Woman
